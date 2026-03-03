@@ -2,25 +2,25 @@
   {
     "name": "VTV1 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD_du_phong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV2 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD_du_phong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV3 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD_du_phong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV5 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD_du_phong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
@@ -33,7 +33,7 @@
     "name": "FM 92,3 • PT THANH HÓA",
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TTV-Phat_thanh_Thanh_Hoa",
-    "img": " "
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/TTV%20-%20Ph%C3%A1t%20thanh%20Thanh%20H%C3%B3a.png"
   },
   {
     "name": "TTV - TH THANH HÓA HD",
@@ -63,13 +63,13 @@
     "name": "TH HÀ NỘI 1 HD",
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20n%C4%83m.png"
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/T%E1%BA%BFt%20H%C3%A0%20N%E1%BB%99i/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20%E2%80%A2%20B%E1%BA%A3n%202.png"
   },
   {
-    "name": "TH HÀ NỘI 2 HD",
+    "name": "TH HÀ NỘI 2 4K",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_4K",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%204K%20%E2%80%A2%20B%E1%BA%A3n%202.png"
   },
   {
     "name": "TTV - TH THANH HÓA HD thử nghiệm",
@@ -522,28 +522,28 @@
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png"
   },
   {
-    "name": "K+ CINE HD",
+    "name": "HTV THỂ THAO HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20CINE%20HD.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_The_Thao_HD_du_phong",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao%20HD.png"
   },
   {
-    "name": "K+ ACTION HD",
+    "name": "BOX MOVIE 1 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20ACTION%20HD.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png"
   },
   {
-    "name": "K+ SPORT 1 HD",
+    "name": "BOX HITS HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-K_SPORT_1_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20SPORT%201%20HD.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD_du_phong",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png"
   },
   {
-    "name": "K+ SPORT 2 HD",
+    "name": "HOLLYWOOD CLASSICS HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-K_SPORT_2_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20SPORT%202%20HD.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png"
   },
   {
     "name": "澳視澳門",
@@ -582,40 +582,16 @@
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/ViuTVsix.png"
   },
   {
-    "name": "K+ KIDS HD",
+    "name": "MỜI QUÝ KHÁN GIẢ THEO DÕI | Cuộc thi \"Trường học Không khói thuốc\" - Phần thi đến từ Trường THCS Trần Phú (Phường Phủ Lý - Tỉnh Ninh Bình)",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20KIDS%20HD.png"
-  },
-  {
-    "name": "HTV THỂ THAO HD",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_The_Thao_HD_du_phong",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao%20HD.png"
+    "url": "https://www.youtube.com/watch?v=8Z03ylNodFU",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Ti%E1%BA%BFng%20n%C3%B3i%20t%E1%BB%AB%20Th%E1%BB%A7%20%C4%91%C3%B4.png"
   },
   {
     "name": "ViuTV",
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-ViuTV",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/ViuTV.png"
-  },
-  {
-    "name": "BOX MOVIE 1 HD",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png"
-  },
-  {
-    "name": "BOX HITS HD",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD_du_phong",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png"
-  },
-  {
-    "name": "HOLLYWOOD CLASSICS HD",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png"
   },
   {
     "name": "HAPPY KIDS HD",
@@ -654,6 +630,18 @@
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t.png"
   },
   {
+    "name": "H²M Số 1 4K thử nghiệm",
+    "type": "Uncategorized",
+    "url": "https://HaNoiIPTV.short.gy/H²M_First_4K",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/H%C2%B2M%20TV%20-%20H%E1%BB%87%20th%E1%BB%91ng%20c%C3%A1c%20k%C3%AAnh%20H%C3%A0%20N%E1%BB%99i%20IPTV/H%C2%B2M%20S%E1%BB%91%201%20UHD.png"
+  },
+  {
+    "name": "H²M Plus 4K thử nghiệm",
+    "type": "Uncategorized",
+    "url": "https://HaNoiIPTV.short.gy/H²M_Plus_4K",
+    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/H%C2%B2M%20TV%20-%20H%E1%BB%87%20th%E1%BB%91ng%20c%C3%A1c%20k%C3%AAnh%20H%C3%A0%20N%E1%BB%99i%20IPTV/H%C2%B2M%20Plus%20UHD.png"
+  },
+  {
     "name": "SCTV PHIM TỔNG HỢP HD",
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV_Phim_Tong_Hop_HD_du_phong",
@@ -670,18 +658,6 @@
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV15_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png"
-  },
-  {
-    "name": "TH HÀ NỘI 2 4K thử nghiệm",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_4K_thu_nghiem",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%204K%20%E2%80%A2%20B%E1%BA%A3n%202.png"
-  },
-  {
-    "name": "THP+ HD",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-THP_Plus_HD_du_phong",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD%20%E2%80%A2%20B%E1%BA%A3n%202025.png"
   },
   {
     "name": "HTV2 HD",
@@ -804,127 +780,103 @@
     "img": " "
   },
   {
-    "name": "ABC Australia Vietnam (1080p)",
+    "name": "An Giang TV1 (1080p) [Geo-blocked]",
     "type": "General",
-    "url": "https://hls.mskycdn.online/tv/abcaustralia/index.m3u8",
-    "img": "https://i.imgur.com/qQ33TVM.png"
+    "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
+    "img": "https://i.imgur.com/mgp6RAU.png"
   },
   {
-    "name": "Cao Bang TV (480p)",
+    "name": "Cần Thơ TV1 (1080p)",
     "type": "General",
-    "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
+    "url": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
+    "img": "https://i.ibb.co/MDhNH26J/cantho1-2025.png"
+  },
+  {
+    "name": "Cao Bằng TV (720p)",
+    "type": "General",
+    "url": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/dGonewm.png"
   },
   {
-    "name": "Da Nang TV1 (1080p) [Not 24/7]",
+    "name": "Đà Nẵng TV1 (1080p) [Not 24/7]",
     "type": "General",
-    "url": "http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8",
+    "url": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8",
     "img": "https://i.imgur.com/EOMuO1z.png"
   },
   {
-    "name": "Da Nang TV2 (1080p) [Not 24/7]",
+    "name": "Đà Nẵng TV2 (1080p) [Not 24/7]",
     "type": "General",
-    "url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8",
+    "url": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dien Bien TV (406p)",
+    "name": "Điện Biên TV (406p)",
     "type": "General",
     "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
     "img": "https://i.imgur.com/u308o8q.png"
   },
   {
-    "name": "Ha Giang TV (406p)",
+    "name": "Đồng Tháp TV1 (720p)",
     "type": "General",
-    "url": "http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
-    "img": "https://i.imgur.com/zXqjjUf.png"
+    "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
+    "img": "https://i.ibb.co/XFX7yw0/logo2-1.png"
   },
   {
-    "name": "Ha Tinh TV (720p)",
+    "name": "Hà Tĩnh TV (720p)",
     "type": "General",
-    "url": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8",
+    "url": "https://wse.hatinhtv.net/live/httv1/chunklist.m3u8",
     "img": "https://i.imgur.com/4yIgKKx.png"
   },
   {
     "name": "HanoiTV1 (1080p) [Geo-blocked]",
     "type": "General",
-    "url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8",
+    "url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/Je3K25E.png"
   },
   {
     "name": "HanoiTV2 (2160p) [Geo-blocked]",
     "type": "General",
-    "url": "https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8",
+    "url": "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
     "img": "https://i.imgur.com/szivqh2.png"
-  },
-  {
-    "name": "Hau Giang TV (720p)",
-    "type": "General",
-    "url": "https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8",
-    "img": "https://i.imgur.com/e0gc4CQ.png"
-  },
-  {
-    "name": "HBTV (406p) [Not 24/7]",
-    "type": "General",
-    "url": "http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8",
-    "img": "https://i.imgur.com/nyfysP7.png"
   },
   {
     "name": "HTV1 (720p)",
     "type": "General",
     "url": "https://vc.101vn.com/htv/htvcmb.php?id=2631",
-    "img": "https://i.postimg.cc/x87xL1wG/HTV1-logo-2020-b-n-2.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "HTV7 (576p)",
+    "name": "Khánh Hòa TV (720p)",
     "type": "General",
-    "url": "http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8",
-    "img": "https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png"
-  },
-  {
-    "name": "Khanh Hoa TV (720p)",
-    "type": "General",
-    "url": "http://210.245.20.94/hls/ktv1.m3u8",
+    "url": "https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8",
     "img": "https://i.imgur.com/qLMcGPT.png"
   },
   {
-    "name": "Kon Tum TV (720p)",
+    "name": "Khánh Hòa TV1 (720p)",
     "type": "General",
-    "url": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8",
-    "img": "https://i.imgur.com/lLlu6ZA.png"
-  },
-  {
-    "name": "Lam Dong TV (720p)",
-    "type": "General",
-    "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/lSMoGlv.png"
-  },
-  {
-    "name": "Lao Cai TV (1080p) [Not 24/7]",
-    "type": "General",
-    "url": "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8",
-    "img": "https://i.imgur.com/TLvrDHa.png"
-  },
-  {
-    "name": "MNB World (1080p)",
-    "type": "General",
-    "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8",
-    "img": "https://i.imgur.com/PHlj84Q.png"
-  },
-  {
-    "name": "Nghe An TV",
-    "type": "General",
-    "url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8",
-    "img": "https://i.imgur.com/d9YEEwC.png"
-  },
-  {
-    "name": "Ninh Thuan TV (720p)",
-    "type": "General",
-    "url": "https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8",
+    "url": "https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8",
     "img": "https://i.imgur.com/HIyUzLM.png"
   },
   {
-    "name": "Thai Nguyen TV (1080p)",
+    "name": "Lâm Đồng TV (480p)",
+    "type": "General",
+    "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/lSMoGlv.png"
+  },
+  {
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MNB World (1080p)",
+    "type": "General",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd",
+    "img": "https://i.imgur.com/PHlj84Q.png"
+  },
+  {
+    "name": "Tây Ninh TV (720p)",
+    "type": "General",
+    "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
+    "img": "https://tayninhtv.vn/static/images/logo.png"
+  },
+  {
+    "name": "Thái Nguyên TV (720p)",
     "type": "General",
     "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
     "img": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png"
@@ -936,34 +888,22 @@
     "img": "https://i.imgur.com/OkslYzP.png"
   },
   {
-    "name": "ANTV (480p)",
+    "name": "An Giang TV2 (1080p) [Geo-blocked]",
+    "type": "Entertainment",
+    "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
+    "img": "https://i.imgur.com/efrauLr.png"
+  },
+  {
+    "name": "An Giang TV3 (1080p) [Geo-blocked]",
+    "type": "Entertainment",
+    "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+    "img": "https://i.imgur.com/gZUV4z8.png"
+  },
+  {
+    "name": "ANTV (1080p)",
     "type": "Undefined",
-    "url": "https://ott1.nethubtv.vn/live/antv/playlist.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi"
-  },
-  {
-    "name": "ANTV HD (1080p)",
-    "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/antvhd/index.m3u8",
-    "img": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi"
-  },
-  {
-    "name": "Bac Kan TV (406p)",
-    "type": "Undefined",
-    "url": "http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bac Lieu TV (1080p)",
-    "type": "Undefined",
-    "url": "https://tv.thbl.vn/live/tv/tv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bac Ninh TV (720p)",
-    "type": "Undefined",
-    "url": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Cà Mau TV (720p) [Geo-blocked]",
@@ -972,52 +912,40 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dong Thap TV (540p)",
+    "name": "Cần Thơ TV3 (1080p)",
     "type": "Undefined",
-    "url": "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8",
-    "img": "https://i.imgur.com/pgvVQ9c.png"
+    "url": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8",
+    "img": "https://i.ibb.co/d4G2PD9s/cantho3-2025.png"
   },
   {
-    "name": "KienGiangTV (1080p) [Geo-blocked]",
+    "name": "Đồng Tháp TV2 (540p)",
     "type": "Undefined",
-    "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8",
+    "img": "https://i.imgur.com/yonKxgZ.png"
   },
   {
-    "name": "KienGiangTV1 (1080p) [Geo-blocked]",
+    "name": "Huế TV (720p) [Geo-blocked]",
     "type": "Undefined",
-    "url": "https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Phu Yen TV (360p)",
-    "type": "Undefined",
-    "url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8",
-    "img": "https://i.imgur.com/fYYS9QS.png"
-  },
-  {
-    "name": "QPVN (480p)",
-    "type": "Undefined",
-    "url": "https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8",
-    "img": "https://i.imgur.com/GQO7UNu.png"
+    "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png"
   },
   {
     "name": "QPVN HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/qpvnhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
     "img": "https://i.imgur.com/GQO7UNu.png"
   },
   {
     "name": "SCTV1 (720p)",
     "type": "Undefined",
-    "url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8",
     "img": "https://i.imgur.com/UcMXcHF.png"
   },
   {
-    "name": "SCTV4K (2160p) [Geo-blocked]",
+    "name": "SCTV4 (720p)",
     "type": "Undefined",
-    "url": "https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8",
+    "img": "https://i.imgur.com/qkZhzQq.png"
   },
   {
     "name": "SCTV6 (1080p) [Geo-blocked]",
@@ -1026,166 +954,76 @@
     "img": "https://i.imgur.com/2oOVS42.png"
   },
   {
-    "name": "SCTV7 (576i)",
-    "type": "Undefined",
-    "url": "https://liveh12.seenow.vn/hls/SCTV7/03.m3u8",
-    "img": "https://i.imgur.com/xbIUZYd.png"
-  },
-  {
-    "name": "Thua Thien Hue TV (404p)",
-    "type": "Undefined",
-    "url": "https://live.trt.com.vn/TRT-Online/playlist.m3u8",
-    "img": "https://i.imgur.com/lWQCrY9.png"
-  },
-  {
-    "name": "Tien Giang (720p)",
-    "type": "Undefined",
-    "url": "http://thtg.vn:8001/thtg.m3u8",
-    "img": "https://i.imgur.com/yonKxgZ.png"
-  },
-  {
     "name": "Vietnam Today (1080p)",
     "type": "Undefined",
-    "url": "https://hls.mskycdn.online/tv/vntoday/index.m3u8",
-    "img": "https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg"
+    "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+    "img": "https://i.imgur.com/xW9rY7s.png"
   },
   {
-    "name": "VTV1 (1080p)",
+    "name": "VTV1 HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv1fhd/index.m3u8",
-    "img": "https://i.imgur.com/vZYlGIW.png"
-  },
-  {
-    "name": "VTV1 (576p)",
-    "type": "Undefined",
-    "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8",
     "img": "https://i.imgur.com/vZYlGIW.png"
   },
   {
     "name": "VTV2 HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv2fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8",
     "img": "https://i.imgur.com/qWWpYRR.png"
   },
   {
     "name": "VTV3 HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv3fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8",
     "img": "https://i.imgur.com/4lJG1fu.png"
-  },
-  {
-    "name": "VTV4 (576p)",
-    "type": "Undefined",
-    "url": "http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/WsLLmR2.png"
   },
   {
     "name": "VTV4 HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv4fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8",
     "img": "https://i.imgur.com/WsLLmR2.png"
   },
   {
     "name": "VTV5 HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv5fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8",
     "img": "https://i.imgur.com/Vnnna1C.png"
   },
   {
     "name": "VTV5 Tây Nam Bộ HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8",
     "img": "https://i.imgur.com/xiuHjEQ.png"
   },
   {
     "name": "VTV5 Tây Nguyên HD (1080p)",
     "type": "Undefined",
-    "url": "https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8",
     "img": "https://i.imgur.com/Hlcnqqt.png"
   },
   {
-    "name": "VTV7 HD (1080i) [Not 24/7]",
+    "name": "VTV7 HD (1080p)",
     "type": "Undefined",
-    "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8",
     "img": "https://i.imgur.com/ZwoP823.png"
   },
   {
     "name": "VTV8 HD (1080p)",
     "type": "Undefined",
-    "url": "https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8",
     "img": "https://i.imgur.com/rf9adGJ.png"
-  },
-  {
-    "name": "VTV9 (576p)",
-    "type": "Undefined",
-    "url": "http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/QiY55sy.png"
   },
   {
     "name": "VTV9 HD (1080p)",
     "type": "Undefined",
-    "url": "https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8",
+    "url": "https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8",
     "img": "https://i.imgur.com/QiY55sy.png"
   },
   {
-    "name": "VTV Cần Thơ HD (1080p)",
-    "type": "Undefined",
-    "url": "https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8",
-    "img": "https://i.imgur.com/Mqmbsj4.png"
-  },
-  {
-    "name": "AXN Vietnam (1080p)",
-    "type": "Movies",
-    "url": "https://tv.ddns.vn/tv/axnhd/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"
-  },
-  {
-    "name": "CinemaWorld Vietnam (1080p)",
-    "type": "Movies",
-    "url": "https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8",
-    "img": "https://i.imgur.com/D2qNVZ7.png"
-  },
-  {
-    "name": "tvN Movies (Indonesian Subtitle) (576p)",
-    "type": "Movies",
-    "url": "http://210.210.155.37/dr9445/h/h21/index.m3u8",
-    "img": "https://i.imgur.com/c4XvwO2.png"
-  },
-  {
-    "name": "BBC Earth Vietnam (1080p)",
-    "type": "Documentary",
-    "url": "https://tv.ddns.vn/tv/bbcearth/index.m3u8",
-    "img": "https://i.imgur.com/nGSsUd4.png"
-  },
-  {
-    "name": "Binh Phuoc TV 1 (720p)",
-    "type": "General;News",
-    "url": "https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8",
-    "img": "https://i.postimg.cc/15v88Bxx/BPTV1-logo.png"
-  },
-  {
-    "name": "Đồng Nai 1 (360p) [Not 24/7]",
-    "type": "General;News",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/oQyioVa.png"
-  },
-  {
-    "name": "HTV9 (576p)",
-    "type": "General;News",
-    "url": "http://125hvt.ddns.net:21585/htv9/index.m3u8",
-    "img": "https://i.postimg.cc/DzGTbNmH/HTV9-logo-2015.png"
-  },
-  {
-    "name": "Vinh Long TV 1 (576p)",
-    "type": "General;News",
-    "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/5YFsqPx.png"
-  },
-  {
-    "name": "CBeebies Asia Vietnam (1080p)",
-    "type": "Kids",
-    "url": "https://hls.mskycdn.online/tv/bbccbb/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"
+    "name": "Cần Thơ TV2 (1080p)",
+    "type": "Education;Science",
+    "url": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8",
+    "img": "https://i.ibb.co/JjVvkMsf/cantho2-2025.png"
   },
   {
     "name": "Da Vinci Asia Vietnam",
@@ -1194,16 +1032,22 @@
     "img": "https://i.imgur.com/iBx7K1M.png"
   },
   {
-    "name": "Đồng Nai 2 (576p) [Not 24/7]",
-    "type": "Entertainment;Sports",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/tNKPSkO.png"
+    "name": "HTV Key (720p)",
+    "type": "Education",
+    "url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png"
   },
   {
-    "name": "DreamWorks Channel Asia Vietnam (1080p)",
-    "type": "Animation",
-    "url": "https://tv.ddns.vn/tv/dreamworks/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"
+    "name": "Đồng Nai 1 (480p) [Not 24/7]",
+    "type": "General;News",
+    "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/oQyioVa.png"
+  },
+  {
+    "name": "Đồng Nai 2 (480p) [Not 24/7]",
+    "type": "Entertainment;Sports",
+    "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/tNKPSkO.png"
   },
   {
     "name": "Hmong TV Network (720p)",
@@ -1212,16 +1056,16 @@
     "img": "https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "HTV3 (576p) [Geo-blocked]",
+    "name": "HTV3 (720p)",
     "type": "Entertainment;General;Series",
-    "url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8",
-    "img": "https://i.postimg.cc/Zq4xXNZs/HTV3-logo-2018.png"
+    "url": "https://vc.101vn.com/htv/htvcmb.php?id=2535",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "HTV Sports (1080p) [Geo-blocked]",
+    "name": "HTV Thể thao (1080p) [Geo-blocked]",
     "type": "Sports",
     "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-    "img": "https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Lao SV TV (480p)",
@@ -1248,33 +1092,9 @@
     "img": "https://i.imgur.com/cTSDB8O.png"
   },
   {
-    "name": "ON Style TV",
-    "type": "Lifestyle",
-    "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8",
-    "img": "https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png"
-  },
-  {
-    "name": "ON Vie Drama",
-    "type": "Entertainment",
-    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
-    "img": "https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png"
-  },
-  {
     "name": "RTM ASEAN",
     "type": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
     "img": "https://i.imgur.com/skAiUxg.png"
-  },
-  {
-    "name": "Tra Vinh TV (720p)",
-    "type": "Culture;Entertainment;Music;News",
-    "url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
-    "img": "https://i.imgur.com/F12VdKO.png"
-  },
-  {
-    "name": "Tra Vinh TV 2 (720p)",
-    "type": "Education;Science",
-    "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8",
-    "img": "https://i.imgur.com/uqMu5Fb.png"
   }
 ]

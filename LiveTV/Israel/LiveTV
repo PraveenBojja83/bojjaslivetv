@@ -786,31 +786,31 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB 1",
+    "name": "IRIB-TV1",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv1/live/playlist.m3u8",
+    "url": "https://live-azd1105.telewebion.ir/ek/tv1/live/480p/index.m3u8",
     "img": "https://i.ibb.co/tMV7LBL/irib1.png"
   },
   {
-    "name": "IRIB 2",
+    "name": "IRIB-TV2",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv2/live/playlist.m3u8",
+    "url": "https://live-azd1103.telewebion.ir/ek/tv2/live/480p/index.m3u8",
     "img": "https://i.ibb.co/6ndKkPM/irib2.png"
   },
   {
-    "name": "IRIB 3",
+    "name": "IRIB-TV3",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv3/live/playlist.m3u8",
+    "url": "https://live-azd1105.telewebion.ir/ek/tv3/live/480p/index.m3u8",
     "img": "https://i.ibb.co/4YQsfv9/irib3.png"
   },
   {
-    "name": "IRIB 4",
+    "name": "IRIB-TV4",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/tv4/live/playlist.m3u8",
+    "url": "https://live-azd1106.telewebion.ir/ek/tv4/live/576p/index.m3u8",
     "img": "https://i.ibb.co/D5S2Q2z/irib4.png"
   },
   {
-    "name": "IRIB5",
+    "name": "IRIB-Tehran (Amphoreus Regional Channel)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -818,85 +818,13 @@
   {
     "name": "Nasim",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/nasim/live/playlist.m3u8",
+    "url": "https://live-azd1101.telewebion.ir/ek/nasim/live/480p/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB IRINN",
+    "name": "IRIB-IRINN",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Iran",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Tehran",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB English Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB World Service",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Arabic Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Dari Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Varzesh",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Women's Sport Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Animax Kurdistan Radio",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Nama Tehran",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Nama Iran",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8",
-    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
-  },
-  {
-    "name": "IRIB Radio Nama Varzesg",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8",
+    "url": "https://live-azd1103.telewebion.ir/ek/irinn/live/480p/index.m3u8",
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
@@ -1032,19 +960,19 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB World Radio (English)",
+    "name": "IRIB-TVWorld Radio (English)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB Iran Radio",
+    "name": "IRIB-TVIran Radio",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "IRIB AlAlam News Network (Cyberdimension Neptunia 4GO)",
+    "name": "IRIB-TVAlAlam News Network (Cyberdimension Neptunia 4GO)",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -3747,6 +3675,60 @@
     "name": "Kuzoo Radio (Dzhongkha)",
     "type": "RADIO",
     "url": "http://43.241.137.236:8000/kuzoodzo",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Outre-Mer La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://outremer.ice.infomaniak.ch/outremer-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Guyane La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Polynésie La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Martinique La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://martinique.ice.infomaniak.ch/martinique-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Mayotte La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Nouvelle Calédonie La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Réunion La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Saint Pierre et Miquelon La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Wallis-et-Futuna La Premìere",
+    "type": "ARKNIGHTS ENDFIELD RADIO",
+    "url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10596,16 +10578,10 @@
     "img": "https://i.imgur.com/pttM3KQ.png"
   },
   {
-    "name": "i24NEWS Hebrew",
+    "name": "Makan 33 (1080p)",
     "type": "News",
-    "url": "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8",
-    "img": "https://www.i24news.tv/images/favicon.png"
-  },
-  {
-    "name": "Israel Pars TV (540p)",
-    "type": "News",
-    "url": "https://live.pars-israel.com/iptv/stream.m3u8",
-    "img": "https://i.imgur.com/UM5Gf4L.png"
+    "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
+    "img": "https://i.imgur.com/RVtQTed.png"
   },
   {
     "name": "Relevant TV (1080p)",
@@ -10618,11 +10594,5 @@
     "type": "General",
     "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
     "img": "https://i.imgur.com/028M4Ew.png"
-  },
-  {
-    "name": "Keshet 12 (1080i) [Not 24/7]",
-    "type": "General",
-    "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn",
-    "img": "https://i.imgur.com/fY3eakc.png"
   }
 ]

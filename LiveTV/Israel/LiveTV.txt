@@ -1,3 +1,50 @@
+Group: ARKNIGHTS ENDFIELD RADIO
+Name: Outre-Mer La Premìere
+URL: https://outremer.ice.infomaniak.ch/outremer-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Guyane La Premìere
+URL: https://guyane.ice.infomaniak.ch/guyane-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Polynésie La Premìere
+URL: https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Martinique La Premìere
+URL: https://martinique.ice.infomaniak.ch/martinique-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Mayotte La Premìere
+URL: https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Nouvelle Calédonie La Premìere
+URL: https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Réunion La Premìere
+URL: https://reunion.ice.infomaniak.ch/reunion-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Saint Pierre et Miquelon La Premìere
+URL: https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: Wallis-et-Futuna La Premìere
+URL: https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+
 Group: Bandori
 Name: 湖南卫视 (Truyền Hình Hồ Nam / Bang Dream TV)
 URL: https://hls-gateway.vpstv.net/streams/476904.m3u8
@@ -26,11 +73,6 @@ Group: General
 Name: Hala TV (1080p) [Not 24/7]
 URL: https://stream.panet.com/edge/halaTV/playlist.m3u8
 Logo: https://i.imgur.com/028M4Ew.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: Keshet 12 (1080i) [Not 24/7]
-URL: https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1757445516~acl=/*~data=hdntl~hmac=a8baf01127ae46cd6fd241cf61db8590d7eacc3406f4735ed2defef329496b8a/profileManifest.m3u8?_did=6cfbfc673e5d5f7f274bf96b6c72f28ce1a53f82&_uid=0195a46a-9f11-4704-a944-301512682f7d&rK=bn
-Logo: https://i.imgur.com/fY3eakc.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 
@@ -208,98 +250,38 @@ URL: https://live.presstv.ir/hls/presstv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB 1
-URL: https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+Name: IRIB-TV1
+URL: https://live-azd1105.telewebion.ir/ek/tv1/live/480p/index.m3u8
 Logo: https://i.ibb.co/tMV7LBL/irib1.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB 2
-URL: https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+Name: IRIB-TV2
+URL: https://live-azd1103.telewebion.ir/ek/tv2/live/480p/index.m3u8
 Logo: https://i.ibb.co/6ndKkPM/irib2.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB 3
-URL: https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+Name: IRIB-TV3
+URL: https://live-azd1105.telewebion.ir/ek/tv3/live/480p/index.m3u8
 Logo: https://i.ibb.co/4YQsfv9/irib3.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB 4
-URL: https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+Name: IRIB-TV4
+URL: https://live-azd1106.telewebion.ir/ek/tv4/live/576p/index.m3u8
 Logo: https://i.ibb.co/D5S2Q2z/irib4.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB5
+Name: IRIB-Tehran (Amphoreus Regional Channel)
 URL: https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: Nasim
-URL: https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+URL: https://live-azd1101.telewebion.ir/ek/nasim/live/480p/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB IRINN
-URL: https://ncdn.telewebion.com/irinn/live/playlist.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Iran
-URL: https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Tehran
-URL: https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB English Radio
-URL: https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB World Service
-URL: https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Arabic Radio
-URL: https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Dari Radio
-URL: https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Varzesh
-URL: https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Women's Sport Radio
-URL: https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Animax Kurdistan Radio
-URL: https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Nama Tehran
-URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Nama Iran
-URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8
-Logo: https://i.ibb.co/hVkbvpQ/irinn.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: IRIB Radio Nama Varzesg
-URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8
+Name: IRIB-IRINN
+URL: https://live-azd1103.telewebion.ir/ek/irinn/live/480p/index.m3u8
 Logo: https://i.ibb.co/hVkbvpQ/irinn.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -413,17 +395,17 @@ URL: https://htvint.mada.ps/nabluslive/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB World Radio (English)
+Name: IRIB-TVWorld Radio (English)
 URL: https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB Iran Radio
+Name: IRIB-TVIran Radio
 URL: https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRIB AlAlam News Network (Cyberdimension Neptunia 4GO)
+Name: IRIB-TVAlAlam News Network (Cyberdimension Neptunia 4GO)
 URL: https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
@@ -1279,14 +1261,9 @@ URL: http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 Logo: https://i.imgur.com/pttM3KQ.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
-Name: i24NEWS Hebrew
-URL: https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-Logo: https://www.i24news.tv/images/favicon.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: Israel Pars TV (540p)
-URL: https://live.pars-israel.com/iptv/stream.m3u8
-Logo: https://i.imgur.com/UM5Gf4L.png
+Name: Makan 33 (1080p)
+URL: https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+Logo: https://i.imgur.com/RVtQTed.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 Name: Relevant TV (1080p)

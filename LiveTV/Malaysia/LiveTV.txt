@@ -202,11 +202,6 @@ URL: http://cdn6.163189.xyz/163189/8tv
 Logo: https://i.imgur.com/Jkx9W88.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
-Name: K+ (Indonesian subtitle) (576p)
-URL: http://210.210.155.37/uq2663/h/h08/index.m3u8
-Logo: https://i.imgur.com/RbS0q71.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
 
 Group: General
 Name: Awesome TV [Geo-blocked]
@@ -231,7 +226,7 @@ Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 Name: SelangorTV (1080p)
 URL: https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Logo: https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 
@@ -514,10 +509,10 @@ Logo: https://images.indihometv.com/logo_antvnew_small.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 
-Group: Kids
+Group: Kids TV
 Name: 611 Ceria HD
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-Logo: https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png
+Logo: https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 620 CBeebies HD
@@ -532,12 +527,7 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 Name: ZooMoo Kids
 URL: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-Logo: https://i.ibb.co/cKsw3zjn/Zoo-Moo-logo-svg.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 615 Cartoon Network
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png
+Logo: https://i.ibb.co/dwt4BJ1Z/Zoo-Moo-logo-svg.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: Baby Shark Tv
@@ -547,7 +537,7 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 Name: PBS Kids
 URL: https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-Logo: https://i.ibb.co/39RzKZ3h/PBS-Kids-logo-2022-svg.png
+Logo: https://i.ibb.co/KMcm946/PBS-Kids-logo-2022-svg.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 616 Nickelodeon HD
@@ -696,11 +686,6 @@ URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primar
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 122 TVS HD
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 146 Okey HD
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 Logo: https://i.ibb.co/qF54fK81/Okey-RTM.png
@@ -816,11 +801,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: Dunia Sinema (1080p)
 URL: https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
-Name: tvN Movies (Indonesian Subtitle) (576p)
-URL: http://210.210.155.37/dr9445/h/h21/index.m3u8
-Logo: https://i.imgur.com/c4XvwO2.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 
@@ -1825,38 +1805,6 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/l
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 
-Group: SPORTS
-Name: 803 Arena Bola HD
-URL: https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41F7levDD4D6gBksOI06M2VWCxDtAgbzJXo1-fuRAJ07M=ZbqP/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=0025fcb8-dfeb-4618-915a-b54e349c75e2
-Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 804 Arena Bola 2 HD
-URL: https://linears2-playback.astro.com.my/vsg/41DdvXC22Q9Uf7tcRq-XyzJUDeaBjmsfYU2bVD1SJQlPM=szAB/dash-wv/jitp-linearwm/5100/default_ott.mpd
-Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 811 Premier League HD
-URL: https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41URLRHtU53UvazApEuTNJrJ2PJq0A1ThOl_Kpg85ypsI=m6h_/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=521ebbfd-8d33-4275-9fef-6bbb8594d8b4
-Logo: https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 812 Premier League 2 HD
-URL: https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/412NVcvmHkWyH_y-6py01cUrXc1PNCzwW-himqVWkSDmU=nZfh/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=d9c74ac9-4c91-4b50-8d78-b9d6519ffe3c
-Logo: https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 815 Badminton HD
-URL: https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41G8oLaLQmE9VysKGlN9iN4qt04EXCNu_IA3vAYFiaBZQ=q2eg/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=21609eb8-db7d-438e-b8eb-8eb7282f9695
-Logo: https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 816 Badminton 2 HD
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
-Logo: https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-
 Group: Shop
 Name: Suke TV (720p)
 URL: https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
@@ -1922,12 +1870,37 @@ URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4
 Logo: https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 810 Grandstand HD
-URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_ott.mpd
+Name: 803 Arena Bola HD
+URL: https://fastlx.tencent-cdn.space/play.mpd?channel=bola1
+Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 804 Arena Bola 2 HD
+URL: https://fastlx.tencent-cdn.space/play.mpd?channel=bola2
+Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 811 Premier League HD
+URL: https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH26-dash/vsg/41URLRHtU53UvazApEuTNJrJao1QthU2S2kzyHAMO_SMI=6y6R/dash-wv/jitp-dashisowm/601/default_ott.mpd?aws.sessionId=f0b0c548-5783-4abf-93cf-f1faca3e83ad
+Logo: https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 812 Premier League 2 HD
+URL: https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/412NVcvmHkWyH_y-6py01cUkOeDxiLIIxTTV4KZrhZ1vo=Wk7F/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=d63721f6-bde5-4de0-a0cf-3e4d386be282
+Logo: https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Badminton HD
+URL: https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41G8oLaLQmE9VysKGlN9iN4rAowcyKH_LpzA5hBub1HKA=Hmuo/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=f9d2425c-a6d3-476f-86e3-49345e6c1048
+Logo: https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 810 Grandstand FHD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd
 Logo: https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 810 Grandstand HD B
+Name: 810 Grandstand HD
 URL: https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/default_ott.mpd?astro=true&aws.sessionId=b5135b0d-5455-4af5-b1be-1e8200556297
 Logo: https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
@@ -2077,11 +2050,6 @@ URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 Logo: https://i.ibb.co/JFC33Z2w/Sukan-RTM-1-April.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: Egg Network (720p)
-URL: http://210.210.155.37/uq2663/h/h22/index.m3u8
-Logo: https://i.imgur.com/VyYo7NF.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
 
 Group: Thailand
 Name: Thai PBS
@@ -2205,13 +2173,6 @@ Logo: https://media-mvtv-app.imgix.net/uploads/channel/150_y_nipxyfZ1W5LeMXODthB
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 
-Group: Uncategorized
-Name: Unnamed Channel
-URL: https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41unq-e0mfQX2GlM0fgV2oJHWp5KK9vuB3Bn6l9BHNWqY=bS86/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=4106b212-c034-4bf3-b01f-471be57d9086
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-
 Group: Undefined
 Name: Berita RTM [Geo-blocked]
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -2286,7 +2247,7 @@ Logo: https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202109/202
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 
-Group: Kids
+Group: Unifi TV;Kids TV
 Name: Animax
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 Logo: https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png
@@ -2392,7 +2353,7 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/Tv6.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: DidikTv KPM
-URL: https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
 Logo: https://mifntechnology.github.io/siaranMy/logo/DidikTv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -2402,7 +2363,7 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/8tv.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: TV9
-URL: https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 Logo: https://mifntechnology.github.io/siaranMy/logo/Tv9.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -2417,12 +2378,12 @@ Logo: https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: BERNAMA
-URL: https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: TVS
-URL: https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 Logo: https://mifntechnology.github.io/siaranMy/logo/Tvs.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -2437,7 +2398,7 @@ Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: Dunia Sinema
-URL: https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+URL: https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DuniaSin)/master.mpd
 Logo: https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
@@ -2457,7 +2418,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------
 Name: CartoonNetwork
-URL: https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 Logo: https://mifntechnology.github.io/siaranMy/logo/CN.png
 Source: https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8
 --------------------------------------------------

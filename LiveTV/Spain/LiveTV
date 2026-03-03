@@ -14064,12 +14064,6 @@
     "img": "https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/EEF4B033-EED9-4711-A947-1DD2A5A49984.jpeg?raw=true"
   },
   {
-    "name": "12tv",
-    "type": "General",
-    "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
-    "img": "https://i.imgur.com/VSTgXsh.png"
-  },
-  {
     "name": "28 kanala",
     "type": "General",
     "url": "https://streaming.28kanala.eus/hls/z.m3u8",
@@ -14082,15 +14076,9 @@
     "img": "https://i.imgur.com/GzI3RC4.png"
   },
   {
-    "name": "Antena 3 (1080p)",
+    "name": "Antena 3 Internacional",
     "type": "General",
-    "url": "http://176.65.146.237:8401/play/a0ae/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png"
-  },
-  {
-    "name": "Antena 3 Internacional (480p)",
-    "type": "General",
-    "url": "http://38.183.182.166:8000/play/a0sx/index.m3u8",
+    "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png"
   },
   {
@@ -14122,6 +14110,12 @@
     "type": "General",
     "url": "http://176.65.146.237:8401/play/a09r/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png"
+  },
+  {
+    "name": "TV Almassora (1080p)",
+    "type": "General",
+    "url": "https://tvalmassora.com/hls/tvalmassora.m3u8",
+    "img": "https://i.imgur.com/syeJXGh.png"
   },
   {
     "name": "TV BRICS Spanish (1080p)",
@@ -19200,16 +19194,16 @@
     "img": "https://i.imgur.com/GzI3RC4.png"
   },
   {
+    "name": "Actualidad 360 (1080p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+    "img": "https://i.imgur.com/3YeTu0n.png"
+  },
+  {
     "name": "France 24 Español (1080p)",
     "type": "News",
     "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png"
-  },
-  {
-    "name": "RT en Español (1080p) [Geo-blocked]",
-    "type": "News",
-    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
   },
   {
     "name": "10 Bold Adelaide",
@@ -22444,12 +22438,6 @@
     "type": "Entertainment",
     "url": "http://176.65.146.237:8401/play/a0ac/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/512px-Energy.svg.png"
-  },
-  {
-    "name": "FDF (1080p)",
-    "type": "Entertainment",
-    "url": "http://176.65.146.237:8401/play/a09p/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png"
   },
   {
     "name": "HOLA! Play (1080p)",
@@ -26676,12 +26664,6 @@
     "img": "https://i.imgur.com/UL1JtYb.png"
   },
   {
-    "name": "FailArmy Spain",
-    "type": "Comedy",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY",
-    "img": "https://i.imgur.com/VIpQJxL.png"
-  },
-  {
     "name": "13 Kids",
     "type": "Kids",
     "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
@@ -27790,12 +27772,6 @@
     "type": "Kids",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
     "img": "https://i.imgur.com/ciTJrnl.png"
-  },
-  {
-    "name": "Pluto TV Kids (720p) [Not 24/7]",
-    "type": "Kids",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
-    "img": "https://i.imgur.com/yVSLWy5.png"
   },
   {
     "name": "13P",
@@ -29398,6 +29374,30 @@
     "type": "Series",
     "url": "http://38.183.182.166:8000/play/a104/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
+  },
+  {
+    "name": "BBC Drama (1080p)",
+    "type": "Series",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/HctHhLL.png"
+  },
+  {
+    "name": "Squirrel 2 (1080p)",
+    "type": "Series",
+    "url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
+    "img": "https://i.imgur.com/BDv4ubA.png"
+  },
+  {
+    "name": "TVE Star (576p)",
+    "type": "Series",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png"
+  },
+  {
+    "name": "TVE Star HD (1080p)",
+    "type": "Series",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/512px-Star_TVE_2026.svg.png"
   },
   {
     "name": "Zylo Todo Novelas (1080p)",
@@ -42516,34 +42516,16 @@
     "img": "https://i.imgur.com/FcaTUym.png"
   },
   {
+    "name": "Atrescine (1080p)",
+    "type": "Movies",
+    "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png"
+  },
+  {
     "name": "Bom Cine (1080p)",
     "type": "Movies",
     "url": "http://176.65.146.237:8401/play/a09d/index.m3u8",
     "img": "https://i.imgur.com/65OX8Gj.png"
-  },
-  {
-    "name": "Pluto TV Cine Acción (720p)",
-    "type": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
-    "img": "https://i.imgur.com/PXhCzXn.png"
-  },
-  {
-    "name": "Pluto TV Cine Estelar (720p)",
-    "type": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
-    "img": "https://i.imgur.com/v3BO4nW.png"
-  },
-  {
-    "name": "Pluto TV Cine Estelar Spain+",
-    "type": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
-    "img": "https://i.imgur.com/v3BO4nW.png"
-  },
-  {
-    "name": "Pluto TV Thrillers Spain",
-    "type": "Movies",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=",
-    "img": "https://i.imgur.com/ULKvDN7.png"
   },
   {
     "name": "Rakuten TV Action Movies Spain (1080p)",
@@ -42572,7 +42554,7 @@
   {
     "name": "Zylo Cine Friki (1080p)",
     "type": "Movies",
-    "url": "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8",
+    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
     "img": "https://i.imgur.com/b3Ospym.png"
   },
   {
@@ -44403,7 +44385,7 @@
     "name": "Barca TV",
     "type": "Sports",
     "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8",
-    "img": "https://i.postimg.cc/7Z1tW9BF/barcatv.png"
+    "img": "https://i.imgur.com/d8x7c8i.png"
   },
   {
     "name": "Gol Classics",
@@ -44421,13 +44403,13 @@
     "name": "Real Madrid TV (1080p)",
     "type": "Sports",
     "url": "http://176.65.146.237:8401/play/a0ak/index.m3u8",
-    "img": "https://i.postimg.cc/2yp7nzVN/realmadridtv.png"
+    "img": "https://i.imgur.com/5pMo7dL.png"
   },
   {
     "name": "Teledeporte (1080p)",
     "type": "Sports",
     "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
-    "img": "https://i.imgur.com/b0H5f62.png"
+    "img": "https://i.ibb.co/0jxLdjnY/TDP.png"
   },
   {
     "name": "30A Investment Pitch",
@@ -48954,6 +48936,12 @@
     "img": "https://i.imgur.com/qKLEGU7.png"
   },
   {
+    "name": "EWTN Espana",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+    "img": "https://i.imgur.com/KvpMbkd.png"
+  },
+  {
     "name": "Trece (1080p)",
     "type": "Religious",
     "url": "http://176.65.146.237:8401/play/a0a9/index.m3u8",
@@ -52200,12 +52188,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png"
   },
   {
-    "name": "Paramount Network Spain (1080p)",
-    "type": "Movies;Series",
-    "url": "http://176.65.146.237:8401/play/a09i/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"
-  },
-  {
     "name": "Squirrel (1080p)",
     "type": "Movies;Series",
     "url": "http://176.65.146.237:8401/play/a09h/index.m3u8",
@@ -52378,12 +52360,6 @@
     "type": "Cooking",
     "url": "http://31.148.48.15/Telekafe/index.m3u8",
     "img": "https://i.imgur.com/1H3h1HL.png"
-  },
-  {
-    "name": "Pluto TV Cocina (720p) [Not 24/7]",
-    "type": "Cooking",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
-    "img": "https://i.imgur.com/LRtfQla.png"
   },
   {
     "name": "America TeVe",
@@ -53026,12 +53002,6 @@
     "type": "Documentary",
     "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
     "img": "https://i.imgur.com/72JmyjM.png"
-  },
-  {
-    "name": "Pluto TV Archivos Forenses (720p)",
-    "type": "Documentary",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
-    "img": "https://i.imgur.com/Pxrl9Ug.png"
   },
   {
     "name": "Aruba.TV",
@@ -54453,25 +54423,25 @@
     "name": "24 Horas (1080p)",
     "type": "News;Public",
     "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
+    "img": "https://i.ibb.co/21sXZ3GT/24h.png"
   },
   {
-    "name": "24 Horas Internacional",
+    "name": "24 Horas Internacional [Geo-Blocked]",
     "type": "News;Public",
     "url": "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
+    "img": "https://i.ibb.co/21sXZ3GT/24h.png"
   },
   {
     "name": "Canal 24 Horas Canarias (720p)",
     "type": "News;Public",
     "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
+    "img": "https://i.ibb.co/21sXZ3GT/24h.png"
   },
   {
     "name": "Canal 24 Horas Catalunya (720p)",
     "type": "News;Public",
     "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
+    "img": "https://i.ibb.co/21sXZ3GT/24h.png"
   },
   {
     "name": "Canal Sur Noticias",
@@ -54498,7 +54468,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/512px-Andaluc%C3%ADa_TV_2018_logo.svg.png"
   },
   {
-    "name": "Aragon TV (720p)",
+    "name": "Aragon TV (720p) [Geo-Blocked]",
     "type": "General;Public",
     "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8",
     "img": "https://i.imgur.com/6YSi1zW.png"
@@ -54522,6 +54492,18 @@
     "img": "https://i.imgur.com/lznnA4v.png"
   },
   {
+    "name": "CMM TV HD (1080p)",
+    "type": "General;Public",
+    "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/276px-CMMedia.svg.png"
+  },
+  {
+    "name": "ETB Events 1 (1080p)",
+    "type": "General;Public",
+    "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+    "img": "https://i.imgur.com/bVUEmx9.png"
+  },
+  {
     "name": "Galicia TV Europa (720p)",
     "type": "General;Public",
     "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
@@ -54531,55 +54513,49 @@
     "name": "La 1 (720p)",
     "type": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-    "img": "https://i.imgur.com/1jDS9UC.png"
+    "img": "https://i.ibb.co/MxJNPHsn/La-1.png"
   },
   {
     "name": "La 1 Canarias (720p)",
     "type": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
-    "img": "https://i.imgur.com/RqUJ4oj.png"
+    "img": "https://i.ibb.co/MxJNPHsn/La-1.png"
   },
   {
     "name": "La 1 Catalunya (720p)",
     "type": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png"
+    "img": "https://i.ibb.co/MxJNPHsn/La-1.png"
   },
   {
     "name": "La 1 HEVC (1080p)",
     "type": "General;Public",
     "url": "http://176.65.146.237:8401/play/a095/index.m3u8",
-    "img": "https://i.imgur.com/1jDS9UC.png"
+    "img": "https://i.ibb.co/MxJNPHsn/La-1.png"
   },
   {
     "name": "La 1 UHD (2160p)",
     "type": "General;Public",
     "url": "http://176.65.146.237:8401/play/a09u/index.m3u8",
-    "img": "https://i.imgur.com/1jDS9UC.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_1_UHD_Logo_2026.svg/512px-La_1_UHD_Logo_2026.svg.png"
   },
   {
     "name": "La 2 (1080p)",
     "type": "General;Public",
     "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-    "img": "https://i.imgur.com/3NwzqoB.png"
+    "img": "https://i.ibb.co/rfsr9PSh/La-2.png"
   },
   {
     "name": "La 2 Canarias (720p)",
     "type": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-    "img": "https://i.imgur.com/iwDi3ND.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_La_2_Canarias.png/512px-Logo_La_2_Canarias.png"
   },
   {
     "name": "La 2 Catalunya (720p)",
     "type": "General;Public",
     "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png"
-  },
-  {
-    "name": "Be Mad (1080p)",
-    "type": "Undefined",
-    "url": "http://176.65.146.237:8401/play/a0aj/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png"
+    "img": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png"
   },
   {
     "name": "Canal 10 Empordà (360p) [Not 24/7]",
@@ -54591,7 +54567,7 @@
     "name": "Canal 25 TV (1080p)",
     "type": "Undefined",
     "url": "https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://i.imgur.com/p6YA5k0.png"
   },
   {
     "name": "Canal 33 Madrid",
@@ -54630,10 +54606,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png"
   },
   {
+    "name": "TVO Jesus (720p)",
+    "type": "Undefined",
+    "url": "https://cloud.tvomix.com/TVOJESUS/index.m3u8",
+    "img": "https://tvomix.com/Logos/Tvojesus.png"
+  },
+  {
     "name": "Clan (1280p)",
     "type": "Kids;Public",
     "url": "https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8",
-    "img": "https://i.imgur.com/03jFV68.png"
+    "img": "https://i.ibb.co/vv3FC2Nv/clan.png"
   },
   {
     "name": "El 33 (1080p) [Geo-blocked]",
@@ -54646,6 +54628,12 @@
     "type": "Culture;Public",
     "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
     "img": "https://i.imgur.com/frKCBTN.png"
+  },
+  {
+    "name": "ETB Basque (720p)",
+    "type": "Culture;Public",
+    "url": "https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png"
   },
   {
     "name": "Esport3 (1080p) [Not 24/7]",

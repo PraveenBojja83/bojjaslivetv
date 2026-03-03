@@ -1,0 +1,375 @@
+Group: Entertainment
+Name: AVT Khyber
+URL: https://trn03.tulix.tv/gf-khybertv/index.m3u8
+Logo: https://i.imgur.com/FqkABWT.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Express Entertainment (1080p)
+URL: https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+Logo: https://i.imgur.com/rgHbb8W.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Geo Kahani (360p)
+URL: https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+Logo: https://i.postimg.cc/7ZmSsPJy/geokahani.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: General
+Name: aurLife HD (614p)
+URL: http://124.109.47.101/hls/stream1.m3u8
+Logo: https://i.imgur.com/GfWLn3O.jpg
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Kids
+Name: Minimax (576p) [Not 24/7]
+URL: http://116.90.120.149:8000/play/a01c/index.m3u8
+Logo: https://i.imgur.com/TJvf8vd.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Music
+Name: 8XM (576p)
+URL: http://87.255.35.150:18883
+Logo: https://i.imgur.com/KLrfKRn.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: ARY Musik (1080p)
+URL: https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: JooMusic (720p)
+URL: https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+Logo: https://i.imgur.com/KHuKQQL.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: News
+Name: 92 News HD (720p)
+URL: http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+Logo: https://i.imgur.com/gp1Ao4s.jpeg
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: ABN News (1080p)
+URL: http://116.90.120.149:8000/play/a01r/index.m3u8
+Logo: https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Aik News
+URL: https://video.primexsports.com/pnn/live/playlist.m3u8
+Logo: https://i.imgur.com/svPXoAP.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: City News HD (1080p)
+URL: http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
+Logo: https://i.imgur.com/GtYG9lG.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Dunya News (INT Feed) (720p) [Not 24/7]
+URL: https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+Logo: https://i.postimg.cc/htHtP9VP/dunyanews.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Geo News (576p)
+URL: https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+Logo: https://i.imgur.com/Op4EsaB.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Geo Tez (576i)
+URL: https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+Logo: https://geotez.tv/assets/front/images/tez_logo.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Humraaz TV [Not 24/7]
+URL: https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+Logo: https://i.imgur.com/1Lc9t0D.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Khyber News
+URL: https://trn03.tulix.tv/gf-khybernews/index.m3u8
+Logo: https://i.imgur.com/7SyLba4.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Lahore News (720p) [Not 24/7]
+URL: https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+Logo: https://i.imgur.com/bQfQeEA.jpeg
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: PNN News (720p)
+URL: https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
+Logo: https://i.imgur.com/edKutxd.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Such TV
+URL: https://video.primexsports.com/suchnews/live/playlist.m3u8
+Logo: https://i.imgur.com/yYMh3JJ.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Suno News HD (720p)
+URL: https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
+Logo: https://i.imgur.com/FeSntVO.jpg
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Voice News (720p)
+URL: https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
+Logo: https://i.imgur.com/rlYzN6J.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Religious
+Name: ABN Urdu (540p)
+URL: https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+Logo: https://i.imgur.com/Y9ScPIl.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Fazal TV (1080p)
+URL: http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+Logo: https://i.imgur.com/c0fvKia.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Gawahi TV (720p)
+URL: https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
+Logo: https://i.imgur.com/0W6zzHS.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Arabic
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Chinese
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV English
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Hindi
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Punjabi
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Tagalog
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: God Stands TV Urdu
+URL: https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+Logo: https://i.imgur.com/EO6cYUI.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Grace Network (720p)
+URL: https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+Logo: https://i.imgur.com/QSaZPJ4.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: HK TV (720p)
+URL: https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
+Logo: https://i.imgur.com/brAY4XF.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Isaac TV (720p)
+URL: https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+Logo: https://i.imgur.com/RHDbsiO.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Joshua TV (720p)
+URL: https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
+Logo: https://i.imgur.com/x9xPR2h.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: King TV (720p) [Not 24/7]
+URL: https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
+Logo: https://i.imgur.com/dujrwRE.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Madani Channel English (720p)
+URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+Logo: https://i.imgur.com/Abi9j0A.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Madani Channel Urdu (720p)
+URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+Logo: https://i.imgur.com/MitLeCJ.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Peace TV Urdu (1080p)
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+Logo: https://i.postimg.cc/cLCfzgqB/peacetvurdu.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Sports
+Name: Geo Super (1080p)
+URL: http://116.90.120.149:8000/play/a021/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: One Golf (720p)
+URL: http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Logo: https://i.imgur.com/7JhaEW5.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: PTV Sports (720p)
+URL: https://tvsen5.aynaott.com/Ptvsports/index.m3u8
+Logo: https://i.imgur.com/CPm6GHA.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Ten Sports Pakistan
+URL: http://121.91.61.106:8000/play/a04h/index.m3u8
+Logo: https://i.imgur.com/nnqpYNm.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Travel
+Name: Discover Pakistan (1080p)
+URL: https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+Logo: https://i.imgur.com/IJH47fJ.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Uncategorized
+Name: ARY News
+URL: http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: GEO News
+URL: http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: 92 News
+URL: http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: BOL News
+URL: http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: City 42
+URL: http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: Dunya News
+URL: http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: Express News
+URL: http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: GEO Tez
+URL: http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: GNN News
+URL: http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: HUM News
+URL: http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: Lahore News
+URL: http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: NEO News
+URL: http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: News One
+URL: http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: PTV News
+URL: http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: Public News
+URL: http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: SAMA News
+URL: http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+Name: DUNYA NEWS
+URL: https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk
+--------------------------------------------------
+
+Group: Undefined
+Name: PMI TV (720p) [Not 24/7]
+URL: https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+Logo: https://i.imgur.com/SfyCwXj.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Praise TV (720p)
+URL: https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+Logo: https://i.imgur.com/T9fIdLs.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Raavi TV (576p) [Not 24/7]
+URL: http://116.90.120.149:8000/play/a01f/index.m3u8
+Logo: https://i.imgur.com/Sdvg5h2.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Samaa TV (576p) [Not 24/7]
+URL: http://116.90.120.149:8000/play/a01g/index.m3u8
+Logo: https://i.imgur.com/r3U4A1P.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: See TV (576p)
+URL: http://116.90.120.149:8000/play/a01l/index.m3u8
+Logo: https://i.postimg.cc/T3NR0zPN/seetv.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Shine Star TV (720p) [Not 24/7]
+URL: https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+Logo: https://i.imgur.com/I3lTIeN.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Sindh TV
+URL: https://stream717.duckdns.org/hls/stream1.m3u8
+Logo: https://i.imgur.com/izpeOsx.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Zindagi TV (576p) [Not 24/7]
+URL: https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+Logo: https://i.imgur.com/XBHvR5J.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+

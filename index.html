@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bojjs Live TV</title>
+  <style>
+    body { font-family: sans-serif; margin:0; padding:0; height:100vh; }
+
+    /* header & footer fixed heights */
+    header, footer {
+      background:#222; color:#fff; text-align:center;
+      height:10vh; display:flex; align-items:center; justify-content:center;
+      position:fixed; left:0; right:0; z-index:50;
+    }
+    header { top:0; }
+    footer { bottom:0; }
+
+    /* main area occupies remaining vertical space between header/footer */
+    main {
+      position:absolute; top:10vh; bottom:10vh; left:0; right:0;
+      display:flex; overflow:hidden;
+    }
+
+    /* Left and right sidebars widths (15vw) */
+    #left-aside { width:15vw; min-width:180px; background:#f7f7f7; padding:0.5rem; box-sizing:border-box; border-right:1px solid #e0e0e0; display:flex; flex-direction:column; }
+    #right-aside { width:15vw; min-width:180px; background:#fafafa; padding:0.5rem; box-sizing:border-box; border-left:1px solid #e0e0e0; display:flex; flex-direction:column; }
+
+    /* Make the inner wrapper fill the sidebar and allow the UL to scroll */
+    #left-aside > div, #right-aside > div { display:flex; flex-direction:column; flex:1 1 auto; min-height:0; }
+    #left-aside ul, #right-aside ul { overflow:auto; flex:1 1 auto; margin:0; padding:0 0.25rem 0 0; }
+
+    /* Center area (player + controls) */
+    #center { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-start; padding:0.75rem; box-sizing:border-box; overflow:hidden; }
+    #controls { width:100%; max-width:960px; display:flex; gap:1em; align-items:center; margin-bottom:0.5em; flex-wrap:wrap; }
+    .mode-toggle { display:flex; gap:0.5em; }
+    .mode-btn { padding:.4em .6em; background:#ddd; border:1px solid #999; cursor:pointer; border-radius:4px; }
+    .mode-btn.active { background:#4CAF50; color:#fff; border-color:#4CAF50; }
+    select { padding:.4em; font-size:1rem; }
+    #search-box { padding:.4em; font-size:1rem; flex:0.5; }
+
+    /* Sidebar header/title stays visible while list scrolls */
+    .section-title { font-weight:bold; margin:0 0 .5rem 0; padding:.25rem .25rem; background:transparent; position:sticky; top:0; z-index:10; }
+
+    /* Lists scroll independently inside sidebars */
+    ul { list-style:none; padding:0; margin:0; overflow:auto; }
+    #country-list { flex:1 1 auto; }
+    #channel-list-right { flex:1 1 auto; }
+
+    li { padding:.4em; cursor:pointer; border-radius:4px; }
+    li:hover { background:#eee; }
+    li.selected { background:#4CAF50; color:#fff; }
+
+    /* Player sizing */
+    #player { width:100%; max-width:960px; background:#000; display:flex; align-items:center; justify-content:center; }
+    #player video { width:100%; height:60vh; max-height:calc(100vh - 20vh - 4rem); background:#000; }
+
+    #message { position:fixed; top:11vh; left:1rem; color:red; font-weight:bold; z-index:60; }
+  </style>
+</head>
+<body>
+  <header><h1>📺 Bojja's Live TV </h1></header>
+  <main>
+    <aside id="left-aside">
+      <div>
+        <div class="section-title" id="left-title">Countries</div>
+        <ul id="country-list"></ul>
+      </div>
+    </aside>
+
+    <section id="center">
+      <div id="controls">
+        <div class="mode-toggle">
+          <button class="mode-btn active" id="mode-livetv">📺 Live TV</button>
+          <button class="mode-btn" id="mode-movies">🎬 Movies</button>
+        </div>
+        <label for="category-select">Category:</label>
+        <select id="category-select"><option>All</option></select>
+        <label for="search-box">Search:</label>
+        <input type="text" id="search-box" placeholder="Search..." />
+      </div>
+      <div id="player">
+        <video id="videoPlayer" controls autoplay></video>
+      </div>
+    </section>
+
+    <aside id="right-aside">
+      <div>
+        <div class="section-title" id="right-title">Channels</div>
+        <ul id="channel-list-right"></ul>
+      </div>
+    </aside>
+  </main>
+  <footer><p>Powered by Bojja's Tech Hub</p></footer>
+  <!-- area to display status or errors -->
+  <div id="message"></div>
+
+  <script>
+    const videoPlayer = document.getElementById('videoPlayer');
+    const countryList = document.getElementById('country-list');
+    const categorySelect = document.getElementById('category-select');
+    const searchBox = document.getElementById('search-box');
+    const channelListRight = document.getElementById('channel-list-right');
+    const modeLiveBtn = document.getElementById('mode-livetv');
+    const modeMoviesBtn = document.getElementById('mode-movies');
+    const leftTitle = document.getElementById('left-title');
+    const rightTitle = document.getElementById('right-title');
+
+    let mode = 'livetv'; // 'livetv' or 'movies'
+    let channelsData = []; // flattened list for current country/category
+    let selectedCountry = null; // track which country is selected
+
+    function playChannel(url) {
+      if (!url) return showMessage('No URL for this channel', true);
+      videoPlayer.src = url;
+      videoPlayer.play().catch(e=>console.warn(e));
+    }
+
+    function loadCountries() {
+      fetch('LiveTV/index.json')
+        .then(r=>{ if (!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+        .then(countries=>{
+          countryList.innerHTML = '';
+          countries.sort().forEach(country=>{
+            const li=document.createElement('li');
+            li.textContent = country;
+            li.addEventListener('click', ()=> loadCountry(country));
+            countryList.appendChild(li);
+          });
+          if (countries.length) loadCountry(countries[0]);
+        })
+        .catch(e=>{
+          console.error('loadCountries failed', e);
+          showMessage('Failed to load countries. Are you serving the page over HTTP?', true);
+        });
+    }
+
+    function loadCountry(country) {
+      selectedCountry = country; // remember which country is selected
+      // highlight selected country in list
+      document.querySelectorAll('#country-list li').forEach(li => {
+        if (li.textContent === country) li.classList.add('selected');
+        else li.classList.remove('selected');
+      });
+
+      fetch(`LiveTV/${encodeURIComponent(country)}/LiveTV.json`)
+        .then(r=>{ if (!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+        .then(data=>{
+          // flatten channels and annotate group, filter out adult content
+          channelsData = [];
+          const groups = Object.keys(data.channels || {})
+            .filter(group => !group.toLowerCase().includes('adult')) // exclude adult groups
+            .sort();
+          groups.forEach(group => {
+            const list = data.channels[group] || [];
+            list.forEach(ch => {
+              if (!ch.group) ch.group = group;
+              // also skip individual channels marked as adult
+              if (!(ch.group && ch.group.toLowerCase().includes('adult'))) {
+                channelsData.push(ch);
+              }
+            });
+          });
+
+          // populate category dropdown (groups)
+          populateCategoryOptions(['All'].concat(groups));
+
+          // reset dropdown when switching countries
+          categorySelect.value = 'All';
+
+          // initial render
+          filterAndShowChannels();
+        })
+        .catch(e=>{
+          console.error('loadCountry failed', e);
+          showMessage('Could not load data for '+country, true);
+        });
+    }
+
+    function populateCategoryOptions(items) {
+      categorySelect.innerHTML = '';
+      // Filter out any category containing 'adult' (case-insensitive)
+      items.filter(it => !it.toLowerCase().includes('adult')).forEach(it => {
+        const opt = document.createElement('option'); opt.value = it; opt.textContent = it; categorySelect.appendChild(opt);
+      });
+    }
+
+
+
+    function filterAndShowChannels() {
+      // silently skip if nothing selected yet
+      if (!selectedCountry) return;
+      // if no data, don't show error yet - might still be loading
+      if (channelsData.length === 0) return;
+
+      const selCat = categorySelect.value || 'All';
+      const searchTerm = (searchBox.value || '').toLowerCase();
+      const filtered = channelsData.filter(ch => {
+        if (!ch.name || !ch.url) return false; // skip invalid entries
+        if (ch.group && ch.group.toLowerCase().includes('adult')) return false; // block adult content
+        const catOk = (selCat === 'All') || (ch.group === selCat);
+        const searchOk = searchTerm === '' || ch.name.toLowerCase().includes(searchTerm);
+        return catOk && searchOk;
+      });
+
+      channelListRight.innerHTML = '';
+      filtered.forEach(ch => {
+        const li = document.createElement('li');
+        li.textContent = ch.name;
+        li.addEventListener('click', ()=> playChannel(ch.url));
+        channelListRight.appendChild(li);
+      });
+
+      if (filtered.length) playChannel(filtered[0].url);
+      else showMessage('No channels found for "'+selectedCountry+'" with selected filters', true);
+    }
+
+    // wire dropdown and search events
+    categorySelect.addEventListener('change', filterAndShowChannels);
+    searchBox.addEventListener('input', filterAndShowChannels);
+
+    // Load initial content
+    loadCountries();
+
+    // Mode toggle events
+    modeLiveBtn.addEventListener('click', () => switchMode('livetv'));
+    modeMoviesBtn.addEventListener('click', () => switchMode('movies'));
+
+    function switchMode(newMode) {
+      mode = newMode;
+      selectedCountry = null;
+      searchBox.value = '';
+      categorySelect.value = 'All';
+
+      // Update button styling
+      modeLiveBtn.classList.toggle('active', mode === 'livetv');
+      modeMoviesBtn.classList.toggle('active', mode === 'movies');
+
+      // Update titles
+      if (mode === 'livetv') {
+        leftTitle.textContent = 'Countries';
+        rightTitle.textContent = 'Channels';
+        loadCountries();
+      } else {
+        leftTitle.textContent = 'Categories';
+        rightTitle.textContent = 'Movies';
+        loadMovieCategories();
+      }
+    }
+
+    function loadMovieCategories() {
+      // Load the list of movie categories (similar to countries)
+      const movieCats = ['Bollywood', 'Hollywood', 'Private', 'SecretWorld', 'VOD', 'WorldCollection', 'Worldwide'];
+      countryList.innerHTML = '';
+      movieCats.forEach(cat => {
+        const li = document.createElement('li');
+        li.textContent = cat;
+        li.addEventListener('click', () => loadMovieCategory(cat));
+        countryList.appendChild(li);
+      });
+      if (movieCats.length) loadMovieCategory(movieCats[0]);
+    }
+
+    function loadMovieCategory(category) {
+      selectedCountry = category; // reuse variable for movie category
+      document.querySelectorAll('#country-list li').forEach(li => {
+        if (li.textContent === category) li.classList.add('selected');
+        else li.classList.remove('selected');
+      });
+
+      fetch(`Movies/${encodeURIComponent(category)}/Movies.json`)
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(data => {
+          // flatten movies and annotate genre
+          channelsData = [];
+          const genres = Object.keys(data.channels || {}).sort();
+          genres.forEach(genre => {
+            const list = data.channels[genre] || [];
+            list.forEach(movie => {
+              if (!movie.group) movie.group = genre;
+              channelsData.push(movie);
+            });
+          });
+
+          populateCategoryOptions(['All'].concat(genres));
+
+          // Get languages from movies
+          const langs = new Set();
+          channelsData.forEach(m => {
+            const lng = m.language || m.lang || m.locale || m.language_code || m.lang_code || '';
+            if (lng) langs.add(lng);
+          });
+          populateLanguageOptions(['All'].concat(Array.from(langs).sort()));
+
+          categorySelect.value = 'All';
+          languageSelect.value = 'All';
+          filterAndShowChannels();
+        })
+        .catch(e => {
+          console.error('loadMovieCategory failed', e);
+          showMessage('Could not load movies for ' + category, true);
+        });
+    }
+
+    function showMessage(msg, isError = false) {
+      const m = document.getElementById('message');
+      m.textContent = msg;
+      m.style.color = isError ? 'red' : 'green';
+      if (msg) setTimeout(() => { m.textContent = ''; }, 5000);
+    }
+  </script>
+</body>
+</html>

@@ -5,6 +5,20 @@ Logo: https://i.imgur.com/qpe8L27.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Classic
+Name: Ностальгия
+URL: http://31.148.48.15/Nostalgiya/index.m3u8
+Logo: https://i.imgur.com/YBdBc0J.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Classic;Movies
+Name: Смотрим 100% Классика
+URL: https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+Logo: https://i.imgur.com/aASNpKq.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Classic;Music
 Name: BRIDGE Classic
 URL: http://31.148.48.15/Bridge_TV_Classic/index.m3u8
@@ -13,9 +27,28 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Comedy
+Name: alpha Funny (1080p)
+URL: https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+Logo: https://i.ibb.co/ZcCXw5P/alphaf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: КВН ТВ
 URL: http://31.148.48.15/KVN_TV/index.m3u8
 Logo: https://i.imgur.com/Vw3LFLX.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Comedy;Family;Movies
+Name: alpha Cinema (1080p)
+URL: https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+Logo: https://i.imgur.com/146OgfU.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Comedy;Movies
+Name: alpha Moretime (1080p)
+URL: https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+Logo: https://i.imgur.com/ibQfUr7.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -30,18 +63,13 @@ URL: https://cityeden.catcast.tv/content/47516/index.m3u8
 Logo: https://i.imgur.com/wR0pvRc.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Телекафе
-URL: http://31.148.48.15/Telekafe/index.m3u8
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Cooking",Телекафе
+URL: https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 Logo: https://i.imgur.com/1H3h1HL.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Culture
-Name: Россия К
-URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Театр
 URL: http://31.148.48.15/Sochi_HD/index.m3u8
 Logo: https://i.imgur.com/nc2ijCH.png
@@ -49,13 +77,18 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: 365 Дней
+URL: http://31.148.48.15/365_dney/index.m3u8
+Logo: https://i.imgur.com/NfnAiTR.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: HDL
 URL: http://31.148.48.15/HD_Life/index.m3u8
 Logo: https://i.imgur.com/tKgmhxh.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: RTД
-URL: https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+Name: RT Documentary Russian (1080p)
+URL: https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 Logo: https://i.imgur.com/aeu5zIC.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -69,6 +102,11 @@ URL: http://31.148.48.15/Istoriya/index.m3u8
 Logo: https://i.imgur.com/eEjPail.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Смотрим 100% Факты
+URL: https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+Logo: https://i.imgur.com/dB3cJzO.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 
 Group: Documentary;Series
 Name: Сити Эдем КиноДок [Not 24/7]
@@ -77,10 +115,37 @@ Logo: https://i.imgur.com/itRbMX3.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Education
+Name: English Class HD
+URL: http://31.148.48.15/English_club_TV_HD/index.m3u8
+Logo: https://i.imgur.com/gst7wW7.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Кто есть Кто
+URL: http://31.148.48.15/Kto_est_kto/index.m3u8
+Logo: https://i.imgur.com/PmD17UQ.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Entertainment
+Name: 2x2
+URL: http://31.148.48.15/2x2/index.m3u8
+Logo: https://i.imgur.com/fhQFLEl.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: NSC+ (720p)
+URL: https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+Logo: https://i.imgur.com/6k9LYOw.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Индия
 URL: http://31.148.48.15/Zee_TV_Russia/index.m3u8
 Logo: https://i.imgur.com/xDVcDOc.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: ОТВ Приморье
+URL: https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+Logo: https://i.imgur.com/2zd8trG.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Поехали!
@@ -88,18 +153,23 @@ URL: http://31.148.48.15/Poehali/index.m3u8
 Logo: https://i.imgur.com/ZNCpbII.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ТВ3
-URL: https://streaming.televizor-24-tochka.ru/live/18.m3u8
-Logo: https://i.imgur.com/JLAvq8O.png
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International
+URL: https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+Logo: https://i.imgur.com/N2z3EZC.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ТНТ
-URL: https://streaming.televizor-24-tochka.ru/live/23.m3u8
-Logo: https://i.imgur.com/T4A6rEI.png
+Name: Смотрим 100% Праздник
+URL: https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+Logo: https://i.imgur.com/NEcqFse.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Че!
-URL: http://31.148.48.15/Che/index.m3u8
+Name: ТНТ4
+URL: http://31.148.48.15/TNT4/index.m3u8
+Logo: https://i.imgur.com/gBokU5i.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Че! (540p) [Geo-blocked]
+URL: https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 Logo: https://i.imgur.com/ZOcDGpB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -110,18 +180,13 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Family
-Name: СТС
-URL: https://streaming.televizor-24-tochka.ru/live/16.m3u8
-Logo: https://i.imgur.com/ilUzAeb.png
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)
+URL: https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
+Logo: https://i.imgur.com/YBVZoDd.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: General
-Name: 5 Канал
-URL: https://streaming.televizor-24-tochka.ru/live/8.m3u8
-Logo: https://i.imgur.com/KPXMa3U.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: 12 канал (1080p)
 URL: https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 Logo: https://i.imgur.com/OA9hm6e.png
@@ -150,6 +215,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Восток 24 (Владивосток)
 URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 Logo: https://i.imgur.com/YEXDsMn.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: За!ТВ
+URL: https://streaming.televizor-24-tochka.ru/live/25.m3u8
+Logo: https://i.imgur.com/pVPTl8J.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Запад 24 (Калининград)
@@ -192,17 +262,12 @@ URL: https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 Logo: https://i.imgur.com/9r1BKzK.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: НТВ
-URL: https://streaming.televizor-24-tochka.ru/live/7.m3u8
-Logo: https://i.imgur.com/9r1BKzK.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Осетия Ирыстон
 URL: https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 Logo: https://i.imgur.com/N0Zn4zU.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ОТР
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",ОТР
 URL: https://streaming.televizor-24-tochka.ru/live/12.m3u8
 Logo: https://i.imgur.com/VaWlnjZ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
@@ -212,14 +277,19 @@ URL: https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 Logo: https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Рен ТВ
-URL: https://streaming.televizor-24-tochka.ru/live/14.m3u8
-Logo: https://i.imgur.com/0Tu5lte.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Россия 1
 URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png
+Logo: https://i.imgur.com/Osd2JHL.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Россия 1 (+6)
+URL: http://31.148.48.15/Rossiya_1/index.m3u8
+Logo: https://i.imgur.com/Osd2JHL.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Россия 1 HD (Архангельск)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
+Logo: https://i.imgur.com/Osd2JHL.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Самара 24
@@ -261,28 +331,58 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Kids
-Name: Карусель
-URL: https://streaming.televizor-24-tochka.ru/live/11.m3u8
-Logo: https://i.imgur.com/4wmnx1W.png
+Name: Ani
+URL: http://31.148.48.15/Ani/index.m3u8
+Logo: https://i.imgur.com/i2AP0hp.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Мама
+URL: http://31.148.48.15/Mama/index.m3u8
+Logo: https://i.imgur.com/kmMIjjf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Мульт
+URL: http://31.148.48.15/Mult/index.m3u8
+Logo: https://i.imgur.com/xi351Fx.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Мульт и Музыка
+URL: http://31.148.48.15/Multimuzika/index.m3u8
+Logo: https://i.imgur.com/SYt6BZP.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Радость моя
 URL: https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-Logo: https://i.postimg.cc/DZpc0rK0/radostmoya.png
+Logo: https://i.imgur.com/B5FA62o.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Смотрим 100% Детское
+URL: https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+Logo: https://i.imgur.com/1hsNeTa.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Тамыр (Уфа) (576p)
+URL: https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+Logo: https://i.imgur.com/Ia3acCB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Legislative
-Name: Дума ТВ
-URL: https://dumatv.iptv2022.com/index.m3u8
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Дума ТВ [Not 24/7]
+URL: https://dumatv.iptv2022.com/playlist.m3u8
 Logo: https://i.imgur.com/JvlO3PU.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Lifestyle
-Name: Домашний
-URL: https://streaming.televizor-24-tochka.ru/live/17.m3u8
-Logo: https://i.imgur.com/XVRwgom.png
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Домашний International
+URL: https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+Logo: https://i.imgur.com/nf7GRXb.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Здоровое ТВ
+URL: http://31.148.48.15/Zdorovoe_TV/index.m3u8
+Logo: https://i.imgur.com/jedtE5l.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: НТВ Стиль
@@ -297,14 +397,14 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: MGM HD [Not 24/7]
-URL: https://v2.catcast.tv/content/44051/index.m3u8
-Logo: https://i.imgur.com/FRbtrxo.png
+Name: Hollywood
+URL: http://31.148.48.15/AMC/index.m3u8
+Logo: https://i.imgur.com/1j7cT2I.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VHS TV [Not 24/7]
-URL: https://v2.catcast.tv/content/47609/index.m3u8
-Logo: https://i.imgur.com/BHCwWBf.png
+Name: viju TV1000 Русское
+URL: http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+Logo: https://i.imgur.com/Meak2y4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Детское кино International [Not 24/7]
@@ -332,6 +432,11 @@ URL: http://31.148.48.15/Illusion_plus/index.m3u8
 Logo: https://i.imgur.com/9GvuHQ5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Кинеко
+URL: http://31.148.48.15/Kineko_HD/index.m3u8
+Logo: https://i.imgur.com/Otfvlmf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Кино 1 International [Not 24/7]
 URL: http://kino-1.catcast.tv/content/38617/index.m3u8
 Logo: https://i.imgur.com/zsCPLs4.png
@@ -342,19 +447,39 @@ URL: http://31.148.48.15/Kinopokaz/index.m3u8
 Logo: https://i.imgur.com/nNjMyAq.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Любимое Индийское Кино [Not 24/7]
-URL: https://v2.catcast.tv/content/41596/index.m3u8
-Logo: https://i.imgur.com/hVptFue.png
+Name: КИНОСАТ
+URL: http://31.148.48.15/Kineko/index.m3u8
+Logo: https://i.imgur.com/7KsNvBz.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Малдер Мегахит [Not 24/7]
-URL: https://v2.catcast.tv/content/47689/index.m3u8
-Logo: https://i.imgur.com/Ow2Pawt.png
+Name: Новый Русский (720p)
+URL: https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+Logo: https://i.imgur.com/iuRSScH.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Родное Кино
+URL: http://31.148.48.15/Rodnoe_kino/index.m3u8
+Logo: https://i.imgur.com/H70LxoZ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Русский Бестселлер
 URL: http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 Logo: https://i.imgur.com/w0ZE9QJ.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Русский Детектив
+URL: http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+Logo: https://i.imgur.com/H3qhN8S.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Русский Иллюзион
+URL: http://31.148.48.15/Russkiy_illusion/index.m3u8
+Logo: https://i.imgur.com/RlsqFN8.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Русский Роман
+URL: http://31.148.48.15/Russkiy_Roman/index.m3u8
+Logo: https://i.imgur.com/cQN0P2B.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Сити Эдем КиноАзия [Not 24/7]
@@ -413,7 +538,24 @@ Logo: https://i.imgur.com/S9OPMLE.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Movies;Series
+Name: Amedia Hit
+URL: http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+Logo: https://i.imgur.com/a8ZBGBw.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Amedia Premium
+URL: http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+Logo: https://i.imgur.com/UUjehw9.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Music
+Name: 15+ Music (1080p)
+URL: https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+Logo: https://i.imgur.com/kj21hwd.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Amedia 1
 URL: http://31.148.48.15/A1/index.m3u8
 Logo: https://i.imgur.com/2pAHdAi.png
@@ -434,7 +576,22 @@ URL: http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 Logo: https://i.imgur.com/sIW9oR4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: МузТВ
+Name: FON Music
+URL: https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+Logo: https://i.imgur.com/tXABQDE.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: RU.TV
+URL: http://31.148.48.15/RU_TV/index.m3u8
+Logo: https://i.imgur.com/Z7HUU7V.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Жара TV
+URL: http://31.148.48.15/Zhara/index.m3u8
+Logo: https://i.imgur.com/41K9Y2s.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Music",МузТВ
 URL: https://streaming.televizor-24-tochka.ru/live/20.m3u8
 Logo: https://i.imgur.com/BtqrHmz.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
@@ -484,11 +641,6 @@ URL: https://cityeden.catcast.tv/content/46421/index.m3u8
 Logo: https://i.imgur.com/V3MTfyc.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: ТНТ MUSIC
-URL: https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-Logo: https://i.imgur.com/RenuH4S.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 
 Group: News
 Name: 360° Новости
@@ -498,7 +650,7 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Вести ФМ
 URL: https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-Logo: https://i.postimg.cc/NFR7YhFQ/vestifm.png
+Logo: https://i.imgur.com/ZBHqSZj.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Дон 24
@@ -508,12 +660,24 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: КРИК-ТВ (Екатеринбург)
 URL: http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-Logo: https://i.postimg.cc/qRy8Jsq8/kriktv.png
+Logo: https://i.imgur.com/rtuChZR.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Настоящее Время
 URL: https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 Logo: https://i.imgur.com/hKo8ApU.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Первый Республиканский
+URL: https://streaming.televizor-24-tochka.ru/live/27.m3u8
+Logo: https://i.imgur.com/ti4OMBv.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Outdoor
+Name: Моя Планета
+URL: http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+Logo: https://i.imgur.com/uIiAdBv.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -523,9 +687,16 @@ URL: https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussi
 Logo: https://i.imgur.com/qKLEGU7.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Спас
+Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Religious",Спас
 URL: https://streaming.televizor-24-tochka.ru/live/15.m3u8
 Logo: https://i.imgur.com/yY39nMg.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Science
+Name: .sci-fi
+URL: http://31.148.48.15/SONY_SCI_FI/index.m3u8
+Logo: https://i.imgur.com/nSSUHcg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -545,9 +716,24 @@ URL: https://cdn.ntv.ru/th_hit/playlist.m3u8
 Logo: https://i.imgur.com/FfKBvz5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Сапфир
+URL: http://31.148.48.15/Sapfir/index.m3u8
+Logo: https://i.imgur.com/NMOBvle.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Сити Эдем ТелеНовелла [Not 24/7]
 URL: https://cityeden.catcast.tv/content/46209/index.m3u8
 Logo: https://i.imgur.com/mT5liTh.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Смотрим 100% Любовь
+URL: https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+Logo: https://i.imgur.com/4EFh0nu.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Смотрим 100% Мужское
+URL: https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+Logo: https://i.imgur.com/UY3fjYU.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Смотрим Честный Детектив
@@ -569,39 +755,54 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Sports
-Name: E
-URL: https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-Logo: https://i.imgur.com/FbPFS8u.png
+Name: KHL
+URL: http://31.148.48.15/KHL_TV/index.m3u8
+Logo: https://i.imgur.com/RgdHdOV.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Basketball [Not 24/7]
-URL: https://vslive.pw/stream/48684/index.m3u8
-Logo: https://i.imgur.com/E67CY0d.png
+Name: KHL Prime
+URL: http://31.148.48.15/KHL_TV_HD/index.m3u8
+Logo: https://i.imgur.com/pwxT0ON.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Drive [Not 24/7]
+Name: Match! Strana
+URL: http://31.148.48.15/Match_Strana/index.m3u8
+Logo: https://i.imgur.com/X02s2UE.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Drive
 URL: https://autopilot.catcast.tv/content/37909/index.m3u8
 Logo: https://i.imgur.com/XoR9zLh.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Football [Not 24/7]
-URL: https://vslive.pw/stream/48682/index.m3u8
-Logo: https://i.imgur.com/wXf8nNf.png
+Name: Бокс ТВ
+URL: http://31.148.48.15/Boks_TV/index.m3u8
+Logo: https://i.imgur.com/R1UjyfX.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Plus [Not 24/7]
-URL: https://vslive.pw/stream/48683/index.m3u8
-Logo: https://i.imgur.com/7NTLpDt.png
+Name: МАТЧ! Арена
+URL: http://31.148.48.15/Match_Arena/index.m3u8
+Logo: https://i.imgur.com/udTzwzu.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Sport [Not 24/7]
-URL: https://vslive.pw/stream/48527/index.m3u8
-Logo: https://i.imgur.com/2Kinxqb.png
+Name: МАТЧ! Боец
+URL: http://31.148.48.15/Match_Boec/index.m3u8
+Logo: https://i.imgur.com/DogOkA4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: VITAL Tennis [Not 24/7]
-URL: https://vslive.pw/stream/48685/index.m3u8
-Logo: https://i.imgur.com/RoCOuhJ.png
+Name: МАТЧ! Игра
+URL: http://31.148.48.15/Match_Igra/index.m3u8
+Logo: https://i.imgur.com/5XWpF19.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Sports",Матч! Планета (720p)
+URL: https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+Logo: https://i.imgur.com/vhyMb9D.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Русский Экстрим
+URL: http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+Logo: https://i.imgur.com/hJK7mOW.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: СТАРТ Триумф
@@ -1065,6 +1266,16 @@ Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.
 --------------------------------------------------
 
 Group: Travel
+Name: RTG TV
+URL: http://31.148.48.15/RTG/index.m3u8
+Logo: https://i.imgur.com/ZMKPAho.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Travel+Adventure
+URL: http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+Logo: https://i.imgur.com/AlpdXC4.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Телепутешествия
 URL: http://31.148.48.15/Teleputeshestviya/index.m3u8
 Logo: https://i.imgur.com/eXJm1n3.png
@@ -1072,11 +1283,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Uncategorized
-Name: 15+ Music (1080p)
-URL: https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: 360° (1080p)
 URL: https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1084,21 +1290,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: 360° (720p)
 URL: https://video1.in-news.ru/360/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: alpha Cinema (1080p)
-URL: https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: alpha Funny (1080p)
-URL: https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: alpha Moretime (1080p)
-URL: https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1112,8 +1303,18 @@ URL: http://dancehits80.denvs.ru:8080/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: KHL Prime
-URL: http://194.143.148.28:8080/KHL_HD/index.m3u8
+Name: DTR Music 1 (720p)
+URL: https://kino-stream.online/hls/DTRMUSIC1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: DTR Zona 1 (720p)
+URL: https://kino-stream.online/hls/DTRZONA1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: DTR Zona 2 (720p)
+URL: https://kino-stream.online/hls/DTRZONA2.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1122,48 +1323,13 @@ URL: http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Kulinar TV
-URL: https://api.alpaca.t62a.com/hls/9110/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: MMA-TV.com
 URL: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Novyi Russkii (720p)
-URL: https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: Pro100TV
 URL: https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: RT Documentary (1080p)
-URL: https://hls.mskycdn.online/tv/rtd/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: RTG TV
-URL: http://194.143.148.28:8080/RTG_HD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: RU TV
-URL: https://hls-03-video.webcaramba.com/rutv/live.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Russkiy Detektiv
-URL: http://31.148.48.15/Russkiy_Detektiv/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: SGDF24.RU
-URL: https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1177,18 +1343,8 @@ URL: http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: SONGTV Russia (720p)
-URL: https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: STS Love
-URL: http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: TV4 (1080p)
-URL: https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+Name: SONGTV Russia
+URL: https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1204,6 +1360,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Univer TV (1080p)
 URL: https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: VIVA Russia (1080p)
+URL: https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1262,18 +1423,8 @@ URL: http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Домашний International
-URL: https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: Евразия (Орск) (720p)
 URL: https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: ЕГЭ ТВ
-URL: http://194.143.148.28:8080/RT_DOC/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1284,21 +1435,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Звезда (1080p) [Not 24/7]
 URL: https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Каббала ТВ (360p) [Not 24/7]
-URL: https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Карусель International
-URL: https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Кинеко
-URL: http://194.143.148.28:8080/KINEKO/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1314,6 +1450,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Красная линия
 URL: http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Крым 24
+URL: https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1352,13 +1493,8 @@ URL: https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Матч! Арена
-URL: http://194.143.148.28:8080/MatchArena/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Миллет (540p) [Not 24/7]
-URL: https://live.trkmillet.ru/millet/index.m3u8
+Name: Миллет (720p)
+URL: https://live1.1tvcrimea.ru/milletlive.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1389,11 +1525,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: МосОбрТВ (720p)
 URL: http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Моя Планета
-URL: http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1487,8 +1618,8 @@ URL: https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Перец International
-URL: https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+Name: Первый Крымский (720p)
+URL: https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1499,11 +1630,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Пятница!
 URL: https://vod.tuva.ru/friday/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Пятница! International
-URL: https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1547,11 +1673,6 @@ URL: http://online-video.rbc.ru/online2/rbctv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: РЕН ТВ International
-URL: https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: Россия 24 (576p) [Not 24/7]
 URL: https://uiptv.do.am/1ufc/000000006/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1563,12 +1684,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Самара ГИС (1080p) [Not 24/7]
-URL: http://45.67.57.9:8080/new/new/playlist.m3u8
+URL: https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Своё HD
-URL: http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
+Name: Север (Нарьян-Мар)
+URL: https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Симферополь 24
+URL: https://simf.1tvcrimea.ru/simferopol24.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1584,11 +1710,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Союз (576p)
 URL: https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: СТС International
-URL: https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1642,16 +1763,6 @@ URL: http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: ТНТ4 International
-URL: https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: ТНТ International
-URL: https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: Толк HD
 URL: http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1677,31 +1788,36 @@ URL: https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: TV4 Russkoe Kino (1080p)
-URL: https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8
+Name: Tsargrad TV (1080p) [Geo-blocked]
+URL: https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=is_mLq_kjPYLsOJ4qj85tw&e=2070278263&scheme=https
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 
 Group: Undefined
+Name: 7TV
+URL: http://31.148.48.15/7TV/index.m3u8
+Logo: https://i.imgur.com/GpCwqUF.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Архыз 24 (1080p)
 URL: https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 Logo: https://i.imgur.com/blAtdkJ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Время
-URL: http://31.148.48.15/Vremya/index.m3u8
+Name: БСТ (Башкирское спутниковое телевидение) (576p)
+URL: https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+Logo: https://i.imgur.com/IDotHmQ.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Время (720p)
+URL: https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 Logo: https://i.imgur.com/jZlj3ga.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Дагестан (1080p)
 URL: https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 Logo: https://i.imgur.com/jumkRvc.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Дождь (1080p) [Geo-blocked]
-URL: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Живая Планета
@@ -1724,8 +1840,8 @@ URL: https://cdn.ntv.ru/th_pravo/playlist.m3u8
 Logo: https://i.imgur.com/3ChnWGg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Победа
-URL: https://streaming.thestream.cyou/live/43.m3u8
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Победа 720p
+URL: https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 Logo: https://i.imgur.com/4KiYSln.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -1744,19 +1860,39 @@ URL: https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 Logo: https://i.imgur.com/FfULLr1.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Санкт-Петербург HD
-URL: https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+Name: Санкт-Петербург
+URL: https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 Logo: https://i.imgur.com/9At4oG7.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Север (Нарьян-Мар) (1080p)
-URL: https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-Logo: https://i.imgur.com/sTOQLYl.png
+Name: Сарафан
+URL: http://31.148.48.15/Sarafan/index.m3u8
+Logo: https://i.imgur.com/u4q1rMT.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Своё ТВ (Ставрополь)
+URL: https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
+Logo: https://i.imgur.com/3cP2fmX.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",ТВ Центр International (720p)
+URL: https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+Logo: https://i.imgur.com/tsCOnBW.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: ТНВ-Планета (Казань)
 URL: https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 Logo: https://i.imgur.com/ijA1zDw.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Тонус
+URL: http://31.148.48.15/Zdorovie/index.m3u8
+Logo: https://i.imgur.com/pGm8QCj.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Точка ТВ
+URL: http://31.148.48.15/Tochka_TV/index.m3u8
+Logo: https://i.imgur.com/yyNR5jG.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Уникум
@@ -1902,47 +2038,47 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шалун HD
-URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Exxxotica HD
-URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Blue Hustler
-URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Erox
-URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Brazzers TV Europe
-URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Red Lips HD
-URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Playboy TV
-URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Babes TV
-URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русская ночь
-URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -2360,7 +2496,7 @@ Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/L
 
 Group: Женские
 Name: Мама
-URL: http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -2380,7 +2516,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Телекафе
-URL: https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-09.ott.tricolor.tv/dtv/id366_MSKSG-PVR-1--Telecafe/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -2889,7 +3025,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Viju+ Serial
-URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -2919,12 +3055,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Кино ТВ
-URL: https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Bollywood HD
-URL: http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3019,7 +3155,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Премиальное
-URL: http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3034,42 +3170,42 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Душевное
-URL: http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Остросюжетное
-URL: https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Романтичное
-URL: http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Любимое
-URL: https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Наше
-URL: https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шокирующее
-URL: http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Криминальное
-URL: http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Комедийное
-URL: http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3104,7 +3240,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: .red
-URL: http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3124,27 +3260,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: НСТ
-URL: http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Kinojam 1
-URL: http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Kinojam 2
-URL: http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: DetectiveJam
-URL: https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Суббота
-URL: http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3189,22 +3325,22 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Золотая Коллекция. Мосфильм
-URL: http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дом кино
-URL: http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дом кино Премиум HD
-URL: http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русский роман
-URL: http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3259,17 +3395,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Комедия
-URL: http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русский бестселлер
-URL: http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русский детектив
-URL: http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -3309,7 +3445,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Арсенал
-URL: https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-03.ott.tricolor.tv:443/dtv/id634_MSKSG-PVR-1--Arsenal_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4363,22 +4499,22 @@ Logo: https://iptvx.one/picons/muztv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Музыка Первого
-URL: https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/muzyka-pervogo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Europa Plus TV
-URL: http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-03.ott.tricolor.tv/dtv/id133_MSKSG-PVR-1--Eur_Plus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/europa-plus-tv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Music Box Gold
-URL: https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-10.ott.tricolor.tv/dtv/id901_MSKSG-PVR-1--Music_Box_GOLD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/musicbox-gold.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Russian MusicBox HD
-URL: https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-10.ott.tricolor.tv/dtv/id892_MSKSG-PVR-1--Russian_Musicbox_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/russian-musicbox.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4388,12 +4524,12 @@ Logo: https://iptvx.one/picons/tnt-music.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: O!2 HD
-URL: https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/o2tv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Жара HD
-URL: https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-14.ott.tricolor.tv/dtv/id389_MSKSG-PVR-1--Zhara/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/zhara.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4403,7 +4539,7 @@ Logo: https://iptvx.one/picons/ru-tv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: AIVA HD
-URL: https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-11.ott.tricolor.tv/dtv/id935_MSKSG-PVR-1--AIVA_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/aiva.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4438,22 +4574,22 @@ Logo: https://iptvx.one/picons/bridge-tv-fresh.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Bridge TV
-URL: https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-14.ott.tricolor.tv:443/dtv/id610_MSKSG-PVR-1--Bridge/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/bridge-tv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Bridge TV Hits
-URL: https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-03.ott.tricolor.tv:443/dtv/id611_MSKSG-PVR-1--Bridge_TV_Hits/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/bridge-tv-dance.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Bridge TV Русский Хит
-URL: https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-06.ott.tricolor.tv:443/dtv/id617_MSKSG-PVR-1--BRIDGE_TV_Russkiy_hit/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/bridge-tv-ruxit.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Bridge TV Classic
-URL: https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-08.ott.tricolor.tv:443/dtv/id387_MSKSG-PVR-1--Bridge_tv_classic/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/bridge-tv-classic.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4473,12 +4609,12 @@ Logo: https://iptvx.one/picons/la-minor.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Шансон ТВ
-URL: http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-11.ott.tricolor.tv/dtv/id132_MSKSG-PVR-1--Shanson/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/shanson-tv.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Classic Music HD
-URL: https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-11.ott.tricolor.tv/dtv/id831_MSKSG-PVR-1--Classic_Music_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/classic-music.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4760,7 +4896,7 @@ Logo: https://iptvx.one/picons/ani.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: 2x2
-URL: https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://iptvx.one/picons/2na2.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -4777,17 +4913,17 @@ Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.
 
 Group: Новости
 Name: RTVi
-URL: http://45.143.108.110:2203/RTVi
+URL: http://178.134.1.158:8081/rtvi/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Дождь
-URL: https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+URL: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Euronews
-URL: http://ott.server-iptv.live/140/video.m3u8?token=A3b61a999e
+URL: https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5098,11 +5234,6 @@ URL: http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8t
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 --------------------------------------------------
-Name: RTVi
-URL: http://178.134.1.158:8081/rtvi/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
---------------------------------------------------
 Name: Первый Тульский
 URL: https://vsd241.okcdn.ru/hls/485900290780.m3u8/sig/qAw1hiKdIkI/expires/1765963616420/srcIp/64.236.134.17/urls/185.226.53.82/clientType/0/srcAg/CHROME/mid/977507065564/video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5176,17 +5307,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Наука 2.0
-URL: http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Приключения HD
-URL: http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Первый Космический HD
-URL: http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5226,7 +5357,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Диалоги о Рыбалке
-URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5241,7 +5372,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Авто Плюс
-URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjY1MTk2MjYsImlhdCI6MTc2NjQzMzIyNiwiY2lkIjo2LCJ1aWQiOjk3ODk4MTYzMywicmVnIjpmYWxzZSwiaXAiOjM3NDYyNTI0LCJhZHVsdCI6ZmFsc2V9.-Fib2RdZOPVz527Y7MtCeAN-7RgHlHUIEbnVJ21Q1G0&offset=10
+URL: http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzI2MTA5NjAsImlhdCI6MTc3MjUyNDU2MCwiY2lkIjo2LCJ1aWQiOjEwMTQxNDU4MTcsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.mwMLDD1rRUMnjy74vltpqXNkcoDG1uPKBtaJowdyeyA&offset=10
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5251,7 +5382,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Техно 24
-URL: http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5261,12 +5392,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Бобер
-URL: https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Поехали!
-URL: https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5276,7 +5407,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Zooпарк
-URL: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+URL: https://jekalich.github.io/smtk/channels/zoopark.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5291,7 +5422,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Время
-URL: http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5381,7 +5512,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Оружие
-URL: http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5396,7 +5527,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: В мире животных HD
-URL: https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -5539,11 +5670,6 @@ Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/L
 --------------------------------------------------
 Name: Открытый мир
 URL: http://v4.proofix.ru/0mir/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
---------------------------------------------------
-Name: Перец Int.
-URL: http://158.101.222.193:88/georgia_play.php?id=perec
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 --------------------------------------------------
@@ -6896,17 +7022,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Россия 1 HD
-URL: https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Россия К
-URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: НТВ HD
-URL: https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6916,7 +7042,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВЦ HD
-URL: https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6931,7 +7057,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Рен ТВ HD
-URL: http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6941,7 +7067,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: СТС HD
-URL: http://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6956,7 +7082,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ HD
-URL: http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6966,7 +7092,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТНТ4 HD
-URL: http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6976,7 +7102,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Пятница! HD
-URL: https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -6991,12 +7117,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ТВ3 HD
-URL: https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Россия 24
-URL: https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7011,7 +7137,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Настоящее время
-URL: https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_1080.m3u8
+URL: https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7031,7 +7157,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Домашний HD
-URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7046,7 +7172,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: ОТР
-URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7068,27 +7194,27 @@ Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.
 
 Group: Спорт
 Name: Eurosport 1 HD
-URL: http://178.134.1.158:8081/eurosport/index.m3u8
+URL: http://91.207.115.228:5000/c153
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Eurosport 2 HD
-URL: http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+URL: http://91.207.115.228:5000/c154
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Setanta Sports 1 HD
-URL: https://vod.splay.uz/live_splay/original/Setanta1HD/mono.ts.m3u8
+URL: http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Setanta Sports 2 HD
-URL: https://vod.splay.uz/live_splay/original/Setanta2HD/mono.ts.m3u8
+URL: http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Матч! HD
-URL: http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7098,12 +7224,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Матч! Арена
-URL: http://178.212.71.253:8000/play/54/index.m3u8
+URL: http://91.207.115.228:5000/c103
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Матч! Планета
-URL: http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+URL: http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7143,7 +7269,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: KHL Prime
-URL: http://194.143.148.28:8080/KHL_HD/mpegts
+URL: https://jekalich.github.io/smtk/channels/kxl-hd.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7153,7 +7279,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Окко Спорт
-URL: http://89.23.113.132/oksphd/video.m3u8
+URL: http://ua.online24.pm/play/7337/350B326FB34F4B8/video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7178,17 +7304,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Старт
-URL: http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Старт Триумф
-URL: https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Футбол
-URL: https://jekalich.github.io/smtk/channels/football-ru.m3u8
+URL: http://91.207.115.228:5000/c102
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7198,7 +7324,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Русский экстрим
-URL: http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwNTYxNjI2NyIsImV4cCI6MTc2NzAyMzA1MSwiaHdpZCI6IjdmZDhiYmI5YzU1ZjVjZDIzYmY1YzkzMGU5NGUxYzdhODllZmUyZGEwZTJhM2M3NTMwZDhmYzEzNDYwZGM4OTMiLCJsYXN0X3JlcV9kYXRlIjoxNzY2NDE4MjUxLCJzZXNzaW9uX2lkIjoiODNkZjc4MTMzMTBkNTMxN2Y2NjU3N2Y5YTA4MGFlNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GWLTazzj98lW_QrOwUpI2mACEvbsGDs47sa-AAROAX4
+URL: http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzAyNTUwMzI5MzgxNSIsImV4cCI6MTc3Mjk4NDcxMiwiaHdpZCI6IjFhNTYxYjI2YzQ1MDI4MjNjMzFhMjkxMGI0NzEzYWE2OTIzZmY4N2I5N2EzNTA1Yjk3MmZlMzM0ZTZlYjI1MWYiLCJsYXN0X3JlcV9kYXRlIjoxNzcyMzc5OTEyLCJzZXNzaW9uX2lkIjoiZDU1ZDAxYTY5NjFiNGJhMzcxNmQxYjY3ODgyMzUxNTciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yEyTUkuS_kmK8UNiyQXlmwcrsIfb2nKkyR5b20_BhOg
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7208,12 +7334,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Мир баскетбола
-URL: https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
+URL: http://195.158.223.132:8003/Mir_Basketbola
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Extreme sports
-URL: http://176.113.48.221:8986/27
+URL: http://91.207.115.228:5000/c112
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
@@ -7289,11 +7415,6 @@ Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/L
 --------------------------------------------------
 Name: Матч! Игра HD
 URL: http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
---------------------------------------------------
-Name: Матч! Планета
-URL: http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 --------------------------------------------------
@@ -7422,6 +7543,11 @@ URL: http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 --------------------------------------------------
+Name: Eurosport 1 HD
+URL: http://178.134.1.158:8081/eurosport/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
+--------------------------------------------------
 Name: Eurosport 2
 URL: http://138.201.250.184/eurosport2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -7499,6 +7625,11 @@ Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/L
 --------------------------------------------------
 Name: KHL
 URL: http://178.124.152.238:8088/khl
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
+--------------------------------------------------
+Name: KHL Prime
+URL: http://194.143.148.28:8080/KHL_HD/mpegts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 --------------------------------------------------
@@ -7872,12 +8003,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: КВН ТВ
-URL: http://80.245.95.243:8888/play/a02t/index.m3u8
+URL: http://91.207.115.228:5000/c76
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------
 Name: Перец
-URL: https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+URL: http://158.101.222.193:88/georgia_play.php?id=perec
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u
 --------------------------------------------------

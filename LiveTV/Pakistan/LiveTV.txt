@@ -1,17 +1,7 @@
-Group: Entertainment
-Name: AVT Khyber
-URL: https://trn03.tulix.tv/gf-khybertv/index.m3u8
-Logo: https://i.imgur.com/FqkABWT.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Express Entertainment (1080p)
-URL: https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
-Logo: https://i.imgur.com/rgHbb8W.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Geo Kahani (360p)
+Group: Culture
+Name: HarPal Geo (360p)
 URL: https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-Logo: https://i.postimg.cc/7ZmSsPJy/geokahani.png
+Logo: https://i.imgur.com/NX3vvAX.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
@@ -19,6 +9,11 @@ Group: General
 Name: aurLife HD (614p)
 URL: http://124.109.47.101/hls/stream1.m3u8
 Logo: https://i.imgur.com/GfWLn3O.jpg
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+Name: Kay2 HD (1080p)
+URL: http://163.61.227.29:8000/play/a038/index.m3u8
+Logo: https://i.imgur.com/CRKk0iP.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
@@ -29,12 +24,19 @@ Logo: https://i.imgur.com/TJvf8vd.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
-Group: Music
-Name: 8XM (576p)
-URL: http://87.255.35.150:18883
-Logo: https://i.imgur.com/KLrfKRn.png
+Group: Movies
+Name: Filmax (576p)
+URL: http://163.61.227.29:8000/play/a02o/index.m3u8
+Logo: https://i.imgur.com/eLmdZ6k.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
+Name: Filmazia (576p)
+URL: http://163.61.227.29:8000/play/a02l/index.m3u8
+Logo: https://i.imgur.com/hpTCANa.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
+
+Group: Music
 Name: ARY Musik (1080p)
 URL: https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png
@@ -62,19 +64,14 @@ URL: https://video.primexsports.com/pnn/live/playlist.m3u8
 Logo: https://i.imgur.com/svPXoAP.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
-Name: City News HD (1080p)
-URL: http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
-Logo: https://i.imgur.com/GtYG9lG.png
+Name: City 41 (576p)
+URL: http://163.61.227.29:8000/play/a02r/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Dunya News (INT Feed) (720p) [Not 24/7]
 URL: https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-Logo: https://i.postimg.cc/htHtP9VP/dunyanews.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Geo News (576p)
-URL: https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
-Logo: https://i.imgur.com/Op4EsaB.png
+Logo: https://i.imgur.com/1PbtW0y.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Geo Tez (576i)
@@ -87,34 +84,14 @@ URL: https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 Logo: https://i.imgur.com/1Lc9t0D.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
-Name: Khyber News
-URL: https://trn03.tulix.tv/gf-khybernews/index.m3u8
-Logo: https://i.imgur.com/7SyLba4.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
 Name: Lahore News (720p) [Not 24/7]
 URL: https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 Logo: https://i.imgur.com/bQfQeEA.jpeg
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
-Name: PNN News (720p)
-URL: https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
-Logo: https://i.imgur.com/edKutxd.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
 Name: Such TV
 URL: https://video.primexsports.com/suchnews/live/playlist.m3u8
 Logo: https://i.imgur.com/yYMh3JJ.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Suno News HD (720p)
-URL: https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
-Logo: https://i.imgur.com/FeSntVO.jpg
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Voice News (720p)
-URL: https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
-Logo: https://i.imgur.com/rlYzN6J.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
@@ -127,11 +104,6 @@ Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 Name: Fazal TV (1080p)
 URL: http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 Logo: https://i.imgur.com/c0fvKia.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: Gawahi TV (720p)
-URL: https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
-Logo: https://i.imgur.com/0W6zzHS.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: God Stands TV
@@ -179,11 +151,6 @@ URL: https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 Logo: https://i.imgur.com/QSaZPJ4.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
-Name: HK TV (720p)
-URL: https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
-Logo: https://i.imgur.com/brAY4XF.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
 Name: Isaac TV (720p)
 URL: https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 Logo: https://i.imgur.com/RHDbsiO.png
@@ -211,24 +178,14 @@ Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Peace TV Urdu (1080p)
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-Logo: https://i.postimg.cc/cLCfzgqB/peacetvurdu.png
+Logo: https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 
 Group: Sports
-Name: Geo Super (1080p)
-URL: http://116.90.120.149:8000/play/a021/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
 Name: One Golf (720p)
 URL: http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 Logo: https://i.imgur.com/7JhaEW5.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
-Name: PTV Sports (720p)
-URL: https://tvsen5.aynaott.com/Ptvsports/index.m3u8
-Logo: https://i.imgur.com/CPm6GHA.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Ten Sports Pakistan
@@ -347,14 +304,9 @@ URL: http://116.90.120.149:8000/play/a01f/index.m3u8
 Logo: https://i.imgur.com/Sdvg5h2.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
-Name: Samaa TV (576p) [Not 24/7]
-URL: http://116.90.120.149:8000/play/a01g/index.m3u8
-Logo: https://i.imgur.com/r3U4A1P.png
-Source: https://iptv-org.github.io/iptv/countries/pk.m3u
---------------------------------------------------
 Name: See TV (576p)
 URL: http://116.90.120.149:8000/play/a01l/index.m3u8
-Logo: https://i.postimg.cc/T3NR0zPN/seetv.png
+Logo: https://i.imgur.com/25atwRe.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Shine Star TV (720p) [Not 24/7]
@@ -363,7 +315,7 @@ Logo: https://i.imgur.com/I3lTIeN.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
 Name: Sindh TV
-URL: https://stream717.duckdns.org/hls/stream1.m3u8
+URL: https://mumt01.tangotv.in/SINDHTV/index.m3u8
 Logo: https://i.imgur.com/izpeOsx.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------

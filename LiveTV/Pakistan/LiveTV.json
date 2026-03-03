@@ -1,29 +1,6 @@
 {
-  "date": "2025-12-23 06:48:12",
+  "date": "2026-03-03 22:11:56",
   "channels": {
-    "Music": [
-      {
-        "name": "8XM (576p)",
-        "logo": "https://i.imgur.com/KLrfKRn.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://87.255.35.150:18883"
-      },
-      {
-        "name": "ARY Musik (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
-      },
-      {
-        "name": "JooMusic (720p)",
-        "logo": "https://i.imgur.com/KHuKQQL.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
-      }
-    ],
     "News": [
       {
         "name": "92 News HD (720p)",
@@ -47,25 +24,18 @@
         "url": "https://video.primexsports.com/pnn/live/playlist.m3u8"
       },
       {
-        "name": "City News HD (1080p)",
-        "logo": "https://i.imgur.com/GtYG9lG.png",
+        "name": "City 41 (576p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8"
+        "url": "http://163.61.227.29:8000/play/a02r/index.m3u8"
       },
       {
         "name": "Dunya News (INT Feed) (720p) [Not 24/7]",
-        "logo": "https://i.postimg.cc/htHtP9VP/dunyanews.png",
+        "logo": "https://i.imgur.com/1PbtW0y.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
-      },
-      {
-        "name": "Geo News (576p)",
-        "logo": "https://i.imgur.com/Op4EsaB.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8"
       },
       {
         "name": "Geo Tez (576i)",
@@ -82,13 +52,6 @@
         "url": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
       },
       {
-        "name": "Khyber News",
-        "logo": "https://i.imgur.com/7SyLba4.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://trn03.tulix.tv/gf-khybernews/index.m3u8"
-      },
-      {
         "name": "Lahore News (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/bQfQeEA.jpeg",
         "group": "News",
@@ -96,32 +59,11 @@
         "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
       },
       {
-        "name": "PNN News (720p)",
-        "logo": "https://i.imgur.com/edKutxd.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8"
-      },
-      {
         "name": "Such TV",
         "logo": "https://i.imgur.com/yYMh3JJ.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8"
-      },
-      {
-        "name": "Suno News HD (720p)",
-        "logo": "https://i.imgur.com/FeSntVO.jpg",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8"
-      },
-      {
-        "name": "Voice News (720p)",
-        "logo": "https://i.imgur.com/rlYzN6J.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://cdn.bmstudiopk.com/vop/live/playlist.m3u8"
       }
     ],
     "Religious": [
@@ -138,13 +80,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8"
-      },
-      {
-        "name": "Gawahi TV (720p)",
-        "logo": "https://i.imgur.com/0W6zzHS.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8"
       },
       {
         "name": "God Stands TV",
@@ -210,13 +145,6 @@
         "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
       },
       {
-        "name": "HK TV (720p)",
-        "logo": "https://i.imgur.com/brAY4XF.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8"
-      },
-      {
         "name": "Isaac TV (720p)",
         "logo": "https://i.imgur.com/RHDbsiO.png",
         "group": "Religious",
@@ -253,10 +181,26 @@
       },
       {
         "name": "Peace TV Urdu (1080p)",
-        "logo": "https://i.postimg.cc/cLCfzgqB/peacetvurdu.png",
+        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+      }
+    ],
+    "Music": [
+      {
+        "name": "ARY Musik (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8"
+      },
+      {
+        "name": "JooMusic (720p)",
+        "logo": "https://i.imgur.com/KHuKQQL.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
       }
     ],
     "General": [
@@ -266,29 +210,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://124.109.47.101/hls/stream1.m3u8"
-      }
-    ],
-    "Entertainment": [
-      {
-        "name": "AVT Khyber",
-        "logo": "https://i.imgur.com/FqkABWT.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://trn03.tulix.tv/gf-khybertv/index.m3u8"
       },
       {
-        "name": "Express Entertainment (1080p)",
-        "logo": "https://i.imgur.com/rgHbb8W.png",
-        "group": "Entertainment",
+        "name": "Kay2 HD (1080p)",
+        "logo": "https://i.imgur.com/CRKk0iP.png",
+        "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8"
-      },
-      {
-        "name": "Geo Kahani (360p)",
-        "logo": "https://i.postimg.cc/7ZmSsPJy/geokahani.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+        "url": "http://163.61.227.29:8000/play/a038/index.m3u8"
       }
     ],
     "Travel": [
@@ -300,27 +228,47 @@
         "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
       }
     ],
-    "Sports": [
+    "Movies": [
       {
-        "name": "Geo Super (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",
-        "group": "Sports",
+        "name": "Filmax (576p)",
+        "logo": "https://i.imgur.com/eLmdZ6k.png",
+        "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://116.90.120.149:8000/play/a021/index.m3u8"
+        "url": "http://163.61.227.29:8000/play/a02o/index.m3u8"
       },
+      {
+        "name": "Filmazia (576p)",
+        "logo": "https://i.imgur.com/hpTCANa.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://163.61.227.29:8000/play/a02l/index.m3u8"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "HarPal Geo (360p)",
+        "logo": "https://i.imgur.com/NX3vvAX.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Minimax (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/TJvf8vd.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
+        "url": "http://116.90.120.149:8000/play/a01c/index.m3u8"
+      }
+    ],
+    "Sports": [
       {
         "name": "One Golf (720p)",
         "logo": "https://i.imgur.com/7JhaEW5.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8"
-      },
-      {
-        "name": "PTV Sports (720p)",
-        "logo": "https://i.imgur.com/CPm6GHA.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
       },
       {
         "name": "Ten Sports Pakistan",
@@ -353,15 +301,8 @@
         "url": "http://116.90.120.149:8000/play/a01f/index.m3u8"
       },
       {
-        "name": "Samaa TV (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/r3U4A1P.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://116.90.120.149:8000/play/a01g/index.m3u8"
-      },
-      {
         "name": "See TV (576p)",
-        "logo": "https://i.postimg.cc/T3NR0zPN/seetv.png",
+        "logo": "https://i.imgur.com/25atwRe.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
         "url": "http://116.90.120.149:8000/play/a01l/index.m3u8"
@@ -378,7 +319,7 @@
         "logo": "https://i.imgur.com/izpeOsx.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "https://stream717.duckdns.org/hls/stream1.m3u8"
+        "url": "https://mumt01.tangotv.in/SINDHTV/index.m3u8"
       },
       {
         "name": "Zindagi TV (576p) [Not 24/7]",
@@ -507,15 +448,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/tat2027/a/refs/heads/main/pk",
         "url": "https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Minimax (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/TJvf8vd.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pk.m3u",
-        "url": "http://116.90.120.149:8000/play/a01c/index.m3u8"
       }
     ]
   }

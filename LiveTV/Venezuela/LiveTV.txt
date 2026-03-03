@@ -1,11 +1,6 @@
-Group: Kids
+Group: Animation;Kids
 Name: Disney Channel Latin America (1080p)
 URL: http://201.230.121.186:8000/play/a0fb/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: Disney Channel Latin America Panregional HD (1080p)
-URL: http://201.217.246.177:8000/play/a02r/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -15,11 +10,6 @@ Name: Canal Diplomático (720p) [Not 24/7]
 URL: https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
 Logo: https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
---------------------------------------------------
-Name: PLTV (614p)
-URL: https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
-Logo: https://i.imgur.com/ftblZ6f.jpg
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Entertainment
@@ -38,8 +28,13 @@ URL: https://vcp.myplaytv.com/panavision/panavision/chunklist_w1563195636.m3u8
 Logo: https://i.imgur.com/qj1qBn1.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
 --------------------------------------------------
-Name: Guaro TV (1080p)
-URL: https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
+Name: FX Latin America (1080p)
+URL: http://38.199.6.1:17001/play/a04u/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: Guaro TV (720p)
+URL: https://streamtv.intervenhosting.net:3592/stream/play.m3u8
 Logo: https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -48,14 +43,14 @@ URL: https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 Logo: https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Lara en Redes TV (1080p)
-URL: https://streamtv.intervenhosting.net:3763/hybrid/play.m3u8
-Logo: https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: Más Talk (1080p)
 URL: https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 Logo: https://i.imgur.com/unE2LGz.jpg
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: Norteña TV
+URL: https://live20.bozztv.com/giatv/giatv-2525Jmv/2525Jmv/chunks.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
@@ -262,9 +257,14 @@ URL: https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 Logo: https://i.imgur.com/KLGeznX.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u
 --------------------------------------------------
-Name: Canal Nubeh TV (720p)
-URL: https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-Logo: https://i.imgur.com/qjMxX1d.png
+Name: Canal Once (480p)
+URL: https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+Logo: https://i.imgur.com/puM9ASa.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: Chivacoa TV Internacional (720p)
+URL: https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+Logo: https://i.imgur.com/9rbwZFY.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: Fortuna TV (1080p)
@@ -307,11 +307,6 @@ URL: https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 Logo: https://i.imgur.com/usrP6T2.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Panavisión (1080p)
-URL: https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-Logo: https://i.imgur.com/qj1qBn1.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: PortuTV (480p) [Not 24/7]
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 Logo: https://i.imgur.com/jHUSfGz.png
@@ -342,11 +337,6 @@ URL: https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m
 Logo: https://i.imgur.com/YDE4Jsi.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Telesol TV (720p)
-URL: https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8
-Logo: https://i.imgur.com/iagCG6y.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: Torococo TV (720p) [Not 24/7]
 URL: https://us.streaminghd.cl/torococotelevision/video.m3u8
 Logo: https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png
@@ -360,11 +350,6 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: TV Andes (720p) [Not 24/7]
 URL: https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 Logo: https://i.ibb.co/c1YHQ8K/tvandes.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: TV FANB (720p)
-URL: https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
-Logo: https://i.imgur.com/yaEyv29.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: TV Oasis Monay
@@ -439,13 +424,6 @@ Logo: https://i.imgur.com/E84jnP8.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
-Group: Movies
-Name: Cinecanal
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-
 Group: Music
 Name: Televisora de Oriente (480p)
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
@@ -472,11 +450,6 @@ URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 Logo: https://i.imgur.com/vygOosC.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Cantina TV (1080p)
-URL: https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-Logo: https://i.imgur.com/JWMk2fP.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: Italianissimo (360p) [Not 24/7]
 URL: https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 Logo: https://i.imgur.com/JCpbUZB.png
@@ -490,7 +463,7 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 
 Group: News
 Name: TeleSUR (480p)
-URL: https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+URL: https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 Logo: https://i.imgur.com/P50VjRX.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
 --------------------------------------------------
@@ -504,15 +477,15 @@ URL: https://live.presstv.ir/hls/hispantv_3_482/index.m3u8
 Logo: https://i.imgur.com/AfsVFfM.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
 --------------------------------------------------
+Name: TeleSUR (480p)
+URL: https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+Logo: https://i.imgur.com/P50VjRX.png
+Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u
+--------------------------------------------------
 Name: RT en Español (480p)
 URL: https://1a-1791.com/live/r31jzt5k/slot-32/qyp9-ih3g_360p/chunklist_DVR.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u
---------------------------------------------------
-Name: Canal I (720p)
-URL: https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
-Logo: https://i.imgur.com/vKfOavW.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 Name: Telesur (480p)
 URL: https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -558,8 +531,8 @@ URL: https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 Logo: https://i.imgur.com/iZMDddR.png
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u
 --------------------------------------------------
-Name: Alcance TV
-URL: https://videolatam.com:3516/live/tjjqdqurlive.m3u8
+Name: Alcance TV (720p)
+URL: https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
 Logo: https://i.imgur.com/veeuqS1.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -607,16 +580,14 @@ URL: https://epg.provider.plex.tv/library/parts/608049affa2b8ae93c2c42d2-666337f
 Logo: https://i.pinimg.com/736x/bd/ab/68/bdab6851e7bb4bee055f6d6f55900de2.jpg
 Source: https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u
 --------------------------------------------------
-
-Group: Undefined
-Name: Caminos Media TV (1080p)
-URL: https://streamtv.intervenhosting.net:3029/hybrid/play.m3u8
-Logo: https://intervenweb.com/roku/intertv/canales/caminosmedia-listposter.jpg
+Name: AS3 Sport TV (1080p)
+URL: https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+Logo: https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Studio Universal Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png
+Name: Meridiano TV
+URL: https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
+Logo: https://i.imgur.com/I6gsUqD.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 

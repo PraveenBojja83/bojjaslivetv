@@ -76,6 +76,8 @@
         </div>
         <label for="category-select">Category:</label>
         <select id="category-select"><option>All</option></select>
+        <label for="language-select">Language:</label>
+        <select id="language-select"><option>All</option></select>
         <label for="search-box">Search:</label>
         <input type="text" id="search-box" placeholder="Search..." />
       </div>
@@ -99,6 +101,7 @@
     const videoPlayer = document.getElementById('videoPlayer');
     const countryList = document.getElementById('country-list');
     const categorySelect = document.getElementById('category-select');
+    const languageSelect = document.getElementById('language-select');
     const searchBox = document.getElementById('search-box');
     const channelListRight = document.getElementById('channel-list-right');
     const modeLiveBtn = document.getElementById('mode-livetv');
@@ -185,6 +188,22 @@
       });
     }
 
+    function populateLanguageOptions(items) {
+      if (!languageSelect) return;
+      languageSelect.innerHTML = '';
+      // Normalize items and remove empties
+      items = (items || []).filter(i => i && i.toString().trim() !== '');
+      // Avoid duplicates
+      const seen = new Set();
+      items.forEach(it => {
+        const key = it.toString();
+        if (!seen.has(key)) {
+          seen.add(key);
+          const opt = document.createElement('option'); opt.value = key; opt.textContent = key; languageSelect.appendChild(opt);
+        }
+      });
+    }
+
 
 
     function filterAndShowChannels() {
@@ -194,13 +213,17 @@
       if (channelsData.length === 0) return;
 
       const selCat = categorySelect.value || 'All';
+      const selLang = (languageSelect && languageSelect.value) ? languageSelect.value : 'All';
       const searchTerm = (searchBox.value || '').toLowerCase();
       const filtered = channelsData.filter(ch => {
         if (!ch.name || !ch.url) return false; // skip invalid entries
         if (ch.group && ch.group.toLowerCase().includes('adult')) return false; // block adult content
         const catOk = (selCat === 'All') || (ch.group === selCat);
+        // language matching: support multiple possible language keys on movie objects
+        let chLang = ch.language || ch.lang || ch.locale || ch.language_code || ch.lang_code || '';
+        const langOk = (selLang === 'All') || (chLang && chLang.toString() === selLang);
         const searchOk = searchTerm === '' || ch.name.toLowerCase().includes(searchTerm);
-        return catOk && searchOk;
+        return catOk && langOk && searchOk;
       });
 
       channelListRight.innerHTML = '';
@@ -217,6 +240,7 @@
 
     // wire dropdown and search events
     categorySelect.addEventListener('change', filterAndShowChannels);
+    if (languageSelect) languageSelect.addEventListener('change', filterAndShowChannels);
     searchBox.addEventListener('input', filterAndShowChannels);
 
     // Load initial content

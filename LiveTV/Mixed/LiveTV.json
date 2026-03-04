@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-03 22:05:42",
+  "date": "2026-03-04 06:39:36",
   "channels": {
     "film": [
       {
@@ -669,13 +669,6 @@
         "url": "http://ahostingportal.com:8000/62664054820/5271593547/3020"
       },
       {
-        "name": "USTAV BHARAT (UK)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg",
-        "group": "STREAMING MEDIA",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://ahostingportal.com:8000/62664054820/5271593547/3019"
-      },
-      {
         "name": "ZEE CINEMA HD (ASIA)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",
         "group": "STREAMING MEDIA",
@@ -701,7 +694,7 @@
         "logo": "https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg",
         "group": "STREAMING MEDIA",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8"
+        "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
       }
     ],
     "TERRESTRIAL TV": [

@@ -10018,11 +10018,6 @@ URL: http://ahostingportal.com:8000/62664054820/5271593547/3020
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_9I9d_zhfge4E2OsNP8OMPdElm2dShM2Phdce1Bijui-wEfvcnJvXY3aR1XsBJ1pnPu457re8L83-T3pyGu_keFgohazwbWvK2iJB0ReJPsIzULtcOIs8RvgIyyAH9iVmo9tPSXDwWL2LZnXXK25jWc1TV03tq1FDgIONeoIL3IR-RQkvfYxJK6kBHM/s320/44919.jpg
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
-Name: USTAV BHARAT (UK)
-URL: http://ahostingportal.com:8000/62664054820/5271593547/3019
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg
-Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
---------------------------------------------------
 Name: ZEE CINEMA HD (ASIA)
 URL: https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png
@@ -10039,7 +10034,7 @@ Logo: https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=360x270
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
 Name: BOOMERANG (US)
-URL: https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8
+URL: http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 Logo: https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------

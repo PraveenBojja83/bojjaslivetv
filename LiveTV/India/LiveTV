@@ -12,6 +12,18 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
   },
   {
+    "name": "Live Sports",
+    "type": "Live Sports",
+    "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
+    "name": "Live Sports",
+    "type": "Live Sports",
+    "url": "http://103.229.254.25:7001/play/a087/index.m3u8#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10\"group-title=\"Live Sports\",Live Sports",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
     "name": "Gazi TV",
     "type": "Bangla",
     "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
@@ -22,6 +34,12 @@
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },
+  {
+    "name": "Maasranga TV",
+    "type": "Bangla",
+    "url": "http://103.229.254.25:7001/play/a05q/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"
   },
   {
     "name": "NTV UK",
@@ -114,12 +132,6 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Madani TV",
-    "type": "Relagion Channel",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-  {
     "name": "Makkah TV",
     "type": "Relagion Channel",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
@@ -195,6 +207,12 @@
     "name": "Bangla Movies",
     "type": "Kolkata Bangla Movies",
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -366,6 +384,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
   },
   {
+    "name": "Sony Sports Ten 2 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"
+  },
+  {
     "name": "Sony Sports Ten 5",
     "type": "Sports",
     "url": "http://103.99.249.139/sonyten3/index.m3u8",
@@ -506,6 +530,12 @@
   {
     "name": "Nat Geo HD",
     "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
+    "name": "Nat Geo HD",
+    "type": "Information",
     "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
@@ -520,6 +550,18 @@
     "type": "Information",
     "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Infinity HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "img": "https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg"
+  },
+  {
+    "name": "History TV 18",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
+    "img": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png"
   },
   {
     "name": "Travel XP English EU",
@@ -645,6 +687,12 @@
     "name": "And Prive",
     "type": "English Movies",
     "url": "http://202.70.146.135:8000/play/a05y/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "And Prive HD",
+    "type": "English Movies",
+    "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1018,12 +1066,6 @@
     "type": "Movies",
     "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
-  },
-  {
-    "name": "&prive HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540"
   },
   {
     "name": "&TV (576p)",
@@ -1620,12 +1662,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Madani Tv",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "QURAN",
     "type": "ISLAMIC CHANNELS",
     "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
@@ -1828,12 +1864,6 @@
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "img": "https://i.imgur.com/M8uCJ0D.png"
-  },
-  {
-    "name": "Colors Infinity HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors Tamil (720p)",

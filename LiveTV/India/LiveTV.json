@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07 07:14:27",
+  "date": "2026-03-07 13:57:03",
   "channels": {
     "Promo": [
       {
@@ -165,6 +165,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
+      },
+      {
+        "name": "Makkah TV",
+        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -710,13 +717,6 @@
         "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Food Food",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Information",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.175.73.12:8080/live/143/143_0.m3u8"
-      },
-      {
         "name": "CGTN Docment",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Information",
@@ -1115,6 +1115,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      },
+      {
+        "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
       },
       {
         "name": "Lemar AGF",
@@ -1831,6 +1838,13 @@
       }
     ],
     "Kids": [
+      {
+        "name": "BBC Cbeebies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
+      },
       {
         "name": "Cartoon Network",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",

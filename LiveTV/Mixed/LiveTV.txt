@@ -4,6 +4,11 @@ URL: http://152.231.29.139:8000/play/a0dl/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: SEXTREME
+URL: http://38.224.73.146:8000/play/a16d/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: DORCEL
 URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279112.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -672,12 +677,12 @@ Logo: https://i.postimg.cc/Sxd9XyY0/gplus.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: GOLDEN PREMIER
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
+URL: http://177.10.184.193:8000/play/a02u/index.m3u8
 Logo: https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: GOLDEN PREMIER 2
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298425.m3u8
+URL: http://177.10.184.193:8000/play/a02v/index.m3u8
 Logo: https://discovery-content-cr.tigocloud.net/uploads/ic_golden_premier_2_c48ba18c67.svg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1208,7 +1213,7 @@ Logo: https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: SKY SPORTS
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/286229.m3u8
+URL: http://177.10.184.193:8000/play/a0eh/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------

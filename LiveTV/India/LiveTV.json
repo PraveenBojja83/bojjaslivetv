@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07 13:57:03",
+  "date": "2026-03-07 21:53:16",
   "channels": {
     "Promo": [
       {
@@ -484,13 +484,6 @@
     ],
     "Sports": [
       {
-        "name": "Star Sports 1 HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
-      },
-      {
         "name": "Sony Sports Ten 2 HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",
         "group": "Sports",
@@ -715,6 +708,13 @@
         "group": "Information",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Food Food",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Information",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.175.73.12:8080/live/143/143_0.m3u8"
       },
       {
         "name": "CGTN Docment",
@@ -1094,13 +1094,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
-      },
-      {
-        "name": "T Sports T20 📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8"
       },
       {
         "name": "Sky Sport Mian Event",
@@ -2988,6 +2981,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+      },
+      {
+        "name": "BBC News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",

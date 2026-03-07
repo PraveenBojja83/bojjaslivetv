@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-07 14:05:29",
+  "date": "2026-03-07 22:01:45",
   "channels": {
     "Religious": [
       {
@@ -862,6 +862,34 @@
         "group": "Religious",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      },
+      {
+        "name": "Guadalupe Media",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8"
+      },
+      {
+        "name": "Gospel Cartoon",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
+      },
+      {
+        "name": "Grace Network",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8"
+      },
+      {
+        "name": "Grace TV",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://mumt03.tangotv.in/GRACETV/index.m3u8"
       },
       {
         "name": "BYUtv",
@@ -7108,7 +7136,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=agA8xDKxA3fFx3WcfRCa"
+        "url": "https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8"
       },
       {
         "name": "Free Comedy Network",
@@ -12839,13 +12867,6 @@
         "url": "https://amg00090-amg00090c5-cw-us-2580.playouts.now.amagi.tv/playlist/amg00090-blueantfast-totalcrime-cwus/playlist.m3u8"
       },
       {
-        "name": "Justice Central TV",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "Documentary",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/52748969/72335180/74679.ts"
-      },
-      {
         "name": "Court TV",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Documentary",
@@ -12906,7 +12927,14 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://s7host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/rewind/playlist_scte.m3u8"
+        "url": "https://cdn.lawandcrime.net/247/playlist_scte.m3u8"
+      },
+      {
+        "name": "Law & Crime Rewind",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8"
       },
       {
         "name": "MST3K (Mystery Science Theater 3000)",
@@ -16888,7 +16916,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "24/7 Shows",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=686d1ebceb3cfa42b8008036&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=Entertainment%20%C2%A0&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-PG&AV_CLIENT_SECTION=BanijayUK_hardcore_pawn&content_channel_name=Hardcore%20Pawn%C2%A0&content_livestream=1&AV_CONTENT_PROVIDER=Banijay%20UK&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7961"
+        "url": "https://amg00627-amg00627c8-rakuten-uk-4801.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Hell's Kitchen",
@@ -17134,13 +17162,6 @@
         "group": "24/7 Shows",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8"
-      },
-      {
-        "name": "America's Funniest Home Videos",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "24/7 Shows",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jHQEyNqbfDrpEZSiLrk3"
       },
       {
         "name": "Happy Days",
@@ -19727,6 +19748,13 @@
         "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
       },
       {
+        "name": "TeleOnce 11 America",
+        "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg27206-amg27206c1-amgplt0065.playout.now3.amagi.tv/playlist/amg27206-amg27206c1-amgplt0065/playlist.m3u8"
+      },
+      {
         "name": "WWXY-TV Ind. 19.1 (San Juan PR)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -21015,6 +21043,13 @@
         "url": "https://cdnbarinas.tvzamora.com/history2/index.m3u8?420GKUSH_R4IN&DON'TSTEAL_OR_RESELL_YOUWILLBEBLOCKED"
       },
       {
+        "name": "Historia",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+      },
+      {
         "name": "Nat Geo Mundo",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -21209,6 +21244,13 @@
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://tv.aleluya.cloud:5443/lidp/streams/live2_adaptive.m3u8"
+      },
+      {
+        "name": "TBN España",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8"
       },
       {
         "name": "Iglesia Universal",
@@ -21579,7 +21621,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=anqmxNNj63EnyVYoezyc"
+        "url": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8"
       },
       {
         "name": "Cine Mexicano",
@@ -22573,7 +22615,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/52748969/72335180/4269.ts"
+        "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8"
       },
       {
         "name": "Wapa Deportes",
@@ -24639,7 +24681,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=y5jjfMQdZwYkgE2rBzim"
+        "url": "https://amg00276-aenetwork-amg00276c28-lg-us-7272.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-lgus/playlist.m3u8"
       },
       {
         "name": "MyTime Movie Network",
@@ -24940,14 +24982,14 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ygfsVxgQYsVaLDHQCWGT"
+        "url": "https://amg02208-dlt-amg02208c1-cw-us-2357.playouts.now.amagi.tv/playlist/amg02208-dltentertainment-80ssitcom-cwus/playlist.m3u8"
       },
       {
         "name": "Non-Stop 90's",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=4Y-84HwwzuhdSKUKvZXD"
+        "url": "https://amg00163-amg00163c8-cw-us-2414.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-nonstop90stv-cwus/playlist.m3u8"
       },
       {
         "name": "Dove Channel",
@@ -34615,7 +34657,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/52748969/72335180/2356.ts"
+        "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
       },
       {
         "name": "BBC 4 Cbeebies (UK)",
@@ -35535,6 +35577,13 @@
         "url": "http://s.rocketdns.info:8080/live/52748969/72335180/2186.ts"
       },
       {
+        "name": "talkSPORT (UK)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "UK Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+      },
+      {
         "name": "EuroSports 1 (UK)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
@@ -35712,11 +35761,32 @@
     ],
     "Ethnic & International": [
       {
+        "name": "QVC Germany",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
+      },
+      {
+        "name": "QVC Italia",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+      },
+      {
         "name": "3ABN Russian Network",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Ethnic & International",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
+      },
+      {
+        "name": "CGTN Русский (Russian)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
       },
       {
         "name": "Afghanistan International (UK)",
@@ -35740,6 +35810,13 @@
         "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8"
       },
       {
+        "name": "Iran Jewish TV (Persian \"Farsi\")",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8"
+      },
+      {
         "name": "Safeer TV",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Ethnic & International",
@@ -35759,6 +35836,13 @@
         "group": "Ethnic & International",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://cdn.jwplayer.com/live/broadcast/tnBb1riP.m3u8"
+      },
+      {
+        "name": "BBC News Arabic عربي",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
       },
       {
         "name": "BBC News Persian (Persian \"Farsi\")",
@@ -35815,6 +35899,13 @@
         "group": "Ethnic & International",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://ghaasiflu.online/Dijlah/index.m3u8"
+      },
+      {
+        "name": "CGTN (Arabic)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
       },
       {
         "name": "CNBC Arabiya (Arabic)",
@@ -36025,6 +36116,20 @@
         "group": "Ethnic & International",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTc2LjMyLjE1MC4yMyZ0ZXJtPTQmcWlkPSZjZG5leF9pZD1hbF9waG9uZTQmY2hzPSZkZWY9MSZzPWQ4NWY2ZDU4NGIyYzQyM2RlOTE4MGE1MTUyN2E4MTQwJnVpZD0mdXVpZD00Zjk3YzFkYjFkZDQyYzgzYWZlN2NhM2NmMTJhMzk2ZC00YzIwOTYxNyZ2PTImYXM9MCZlcz0xNzcwNjUwMDQ5/HNDSMPP360.m3u8"
+      },
+      {
+        "name": "QVC Japan",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+      },
+      {
+        "name": "Shop Channel (Japanese)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Ethnic & International",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://stream3.shopch.jp/HLS/master.m3u8"
       },
       {
         "name": "Khmer TV (Cambodia)",

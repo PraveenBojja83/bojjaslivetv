@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-06 22:06:51",
+  "date": "2026-03-07 07:14:27",
   "channels": {
     "Promo": [
       {
@@ -160,11 +160,11 @@
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
-        "name": "Makkah TV",
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+        "name": "Madani TV",
+        "logo": "https://i.ibb.co/7jrjkW1/20240813-112630.png",
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -1117,13 +1117,6 @@
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
       },
       {
-        "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8"
-      },
-      {
         "name": "Lemar AGF",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1167,6 +1160,20 @@
       }
     ],
     "Football": [
+      {
+        "name": "Astro SPORTS Primier",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO SPORTS PLUS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8"
+      },
       {
         "name": "MuxIP-SportsFirst TV🎯",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -1825,13 +1832,6 @@
     ],
     "Kids": [
       {
-        "name": "BBC Cbeebies",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
-      },
-      {
         "name": "Cartoon Network",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Kids",
@@ -1972,6 +1972,13 @@
         "group": "ISLAMIC CHANNELS",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+      },
+      {
+        "name": "Madani Tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
       },
       {
         "name": "QURAN",
@@ -6026,7 +6033,7 @@
     "Business": [
       {
         "name": "CNBC Awaaz (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"

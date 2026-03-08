@@ -96,12 +96,6 @@
     "img": "https://i.ibb.co.com/4VtHQpf/20240907-023221.png"
   },
   {
-    "name": "ATN Music",
-    "type": "Bangla Music",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"
-  },
-  {
     "name": "RTV Music",
     "type": "Bangla Music",
     "url": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8",
@@ -834,9 +828,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Doraemon",
-    "type": "Kids🍭🎯🎉",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "name": "SUN BANGLA",
+    "type": "Live Tv",
+    "url": "https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Shananda Movie",
+    "type": "Live Tv",
+    "url": "http://smart.bengaldigital.live/Zee-Bangla/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -855,6 +855,24 @@
     "name": "Me-টিভি",
     "type": "Live Tv",
     "url": "https://iptvbd.live/metv1080/1080.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NXT",
+    "type": "Live Tv",
+    "url": "https://smart.bengaldigital.live/WWE/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Doraemon",
+    "type": "Kids🍭🎯🎉",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZEE CINEMA HD",
+    "type": "Bangladeshi",
+    "url": "http://smart.bengaldigital.live/ZeeCinema/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -951,18 +969,6 @@
     "name": "Motor Vision",
     "type": "Cricket 🏏",
     "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Astro SPORTS Primier",
-    "type": "Football",
-    "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ASTRO SPORTS PLUS",
-    "type": "Football",
-    "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
